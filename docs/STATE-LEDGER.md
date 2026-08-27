@@ -11,6 +11,14 @@ Supervision: S+ — Dawn only daily; Sunday message `Sync spine`
 
 ---
 
+## 2026-08-26 | Night Sense | Track A
+Title: Overnight Agents Job Mode Beats Chat (finished draft)
+Verdict: SHIP-DRAFT — LinkedIn 1746 chars + X block ready, leave filed, do not post
+Excerpt: Overnight Agents: Job Mode Beats Chat
+Most of us still treat AI like a chat window that only works when we are staring at it.
+I used to do the same. Prompt, wait, refine, prompt again.
+Seed for Dawn: Review draft fidelity to builder voice; decide if Hook 5 pack complete or one more pulse; no new theme.
+
 ## 2026-08-26 | STEER | S+
 Night Sense notifications = app_only.
 Human supervises; does not babysit Night/Ledger/Drive.
