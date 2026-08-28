@@ -11,6 +11,14 @@ Supervision: S+ — Dawn only daily; Sunday message `Sync spine`
 
 ---
 
+## 2026-08-27 | Night Sense | Track A
+Title: Overnight Agents Job Mode Beats Chat (pulse 2)
+Verdict: SHIP-DRAFT — LinkedIn 1784 chars + X block ready, leave filed, do not post
+Excerpt: Overnight Agents: Job Mode Beats Chat
+Most of us still treat AI like a chat window that only works when we are staring at it.
+I used to do the same. Prompt, wait, refine, prompt again.
+Seed for Dawn: Review this pulse for voice fidelity; decide retire or one final Hook 5 close-out; no new theme.
+
 ## 2026-08-26 | Night Sense | Track A
 Title: Overnight Agents Job Mode Beats Chat (finished draft)
 Verdict: SHIP-DRAFT — LinkedIn 1746 chars + X block ready, leave filed, do not post
