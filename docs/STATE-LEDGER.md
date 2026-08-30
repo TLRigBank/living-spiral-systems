@@ -11,6 +11,10 @@ Supervision: S+ — Dawn only daily; Sunday message `Sync spine`
 
 ---
 
+## 2026-08-30 | Dawn Desk
+Title: Overnight Agents Job Mode Beats Chat (pulse 2)
+Verdict: SHIP-DRAFT — leave filed, do not post
+
 ## 2026-08-29 | Dawn Desk
 Title: Overnight Agents Job Mode Beats Chat (pulse 2)
 Verdict: SHIP-DRAFT — leave filed, do not post
