@@ -2,6 +2,9 @@
 
 A framework for transformation built on the conviction that **rhythm** and **proportion** are essential structural principles for coherent, sustainable change.
 
+**Live field:** [Living Spiral Ecosystem particle field](https://yarrow-quartz-moss-tango.grok.me)  
+The spine does not spin. The field shows the life that does.
+
 Most approaches to transformation emphasize forward momentum and measurable progress. While valuable, these approaches often lack built-in mechanisms for renewal and cross-scale coherence. Over time this can lead to accumulation without integration, and measurement systems that begin to shape priorities in unintended ways.
 
 Living Spiral Systems addresses this by designing transformation around two complementary dynamics:
@@ -33,6 +36,22 @@ The framework treats these as practical design principles rather than universal 
 Living Spiral Systems is designed for contexts where long-term coherence, adaptability, and renewal matter as much as short-term progress. It offers a structured yet flexible approach to transformation that treats renewal as a core capability rather than an afterthought.
 
 The framework is offered as a working model — clear enough to guide action, but open to refinement through use. Its value lies in helping people and systems work with complexity in ways that strengthen their capacity to continue transforming effectively over time.
+
+## Particle Field
+
+The particle field is a Shell visualization of dual-runtime polarity:
+
+- **Spine** — still core
+- **Hermes** — local well
+- **Grok** — cloud well
+- **Honey** — exchange along the figure-eight
+- **Shell** — outer orbit
+
+Live demo: [yarrow-quartz-moss-tango.grok.me](https://yarrow-quartz-moss-tango.grok.me)  
+Architecture note: [docs/particle-field.md](docs/particle-field.md)  
+App stub: [apps/particle-field](apps/particle-field)
+
+This is a Grok-hosted Build. Canonical source export is pending Remix. Do not treat the hosted URL as the sole source of truth.
 
 ## Related Work
 

@@ -11,6 +11,12 @@ Supervision: S+ — Dawn only daily; Sunday message `Sync spine`
 
 ---
 
+## 2026-09-06 | Particle Field | Shell
+Live: https://yarrow-quartz-moss-tango.grok.me
+Status: Grok-hosted visualization of dual runtime (Hermes well / Spine still / Grok well / Honey exchange / Shell orbit)
+Git: docs + live link + apps/particle-field stub; source export pending Remix
+Verdict: SHIP-DRAFT — do not treat grok.me as canonical source; Hook 5 RETIRE below is unchanged
+
 ## 2026-09-06 | Dawn Desk
 Title: Overnight Agents Job Mode Beats Chat (pulse 2)
 Verdict: RETIRE — Hook 5 closed; leave filed, do not post
