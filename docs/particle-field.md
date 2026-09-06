@@ -3,7 +3,9 @@
 **Status:** Shell visualization (Grok-hosted Build)  
 **Live:** https://yarrow-quartz-moss-tango.grok.me  
 **Date sealed here:** 2026-09-06  
-**Source of truth for code:** pending Remix export into `apps/particle-field/`
+**Interaction contract sealed:** 2026-09-06  
+**Source of truth for code:** pending Remix export into `apps/particle-field/`  
+**Grok Build project id (recovery only):** `01a06fd3-a3e6-75d0-9424-51ec01ede7f8`
 
 ## What it is
 
@@ -19,34 +21,85 @@ The field is not a new doctrine. It is a felt map of the existing Spine / Shell 
 
 Anchor sentence: **The spine does not spin. The field shows the life that does.**
 
-## Species
+One-line contract: **Spine stays · Wells pull · Honey crosses · Shell bounds.**
 
-| Species | Role | Visual |
-|---|---|---|
-| Spine | Still core | Cream cluster at center |
-| Hermes | Local runtime | Gold well, left |
-| Grok | Cloud · generative | Blue well, right |
-| Honey | Exchange | Gold particles on the figure-eight |
-| Shell | Outer orbit | Pale particles on the large ellipse |
+## Species behavior
 
-## Interaction
+Five species. Not five colors. Physics differs; paint follows.
 
-- Drag to stir the field
+| Species | Role | Inspect copy (live field) | How it treats the others |
+|---|---|---|---|
+| Spine | Still core | Holds still. Identity of the system — not a swirl. | Tight home spring, heavy damping. Immune to stir. Everything else may move around it. |
+| Hermes | Local runtime | Mac mini. Dense, short travel. Work that stays close. | Stronger well pull, shorter paths, quieter noise. Keeps work near the machine. |
+| Grok | Cloud · generative | Faster, farther. Cloud well — more particles, longer paths. | Weaker pull, longer paths, more particles, faster noise. Lets generation range. |
+| Honey | Exchange | Work moving between wells along the living spiral. | Walks the figure-eight (lemniscate) between wells. The only species whose job is the relationship. |
+| Shell | Outer orbit | Membrane. May orbit. The spine inside it does not spin. | Slow ellipse around the whole field. Marks the edge. Does not rewrite the core. |
+
+## Visual contract
+
+| Species | Hex |
+|---|---|
+| Spine | `#f4e6c3` |
+| Hermes | `#c4a574` |
+| Grok | `#7ec8e3` |
+| Honey | `#e0b25a` |
+| Shell | `#8aa4b0` |
+| Void | `#0b0e12` |
+
+Type in the hosted field: Fraunces (display) + Atkinson Hyperlegible (body).
+
+## Controls
+
+- Drag to stir the field (Spine excluded)
 - Space to pause
-- Tap a well (Hermes, Spine, or Grok)
+- Tap a well (Hermes, Spine, or Grok) to focus / inspect
 
-## What this commit includes
+## Public frame
+
+Lead with architecture and species interaction. Do not lead with renderer experiments or a 3D pass.
+
+- Hook: **Five species. Not five colors.**
+- Anchor: **The spine does not spin. The field shows the life that does.**
+- CTA shape: which species is missing — Spine, Honey, or Shell?
+
+Content drafts that follow this frame are Shell. They are not auto-posted. Hook 5 / Overnight Agents remains retired.
+
+## Implementation notes (Shell)
+
+- Live build is Canvas 2D. No WebGL in the hosted field.
+- Honey path is a Bernoulli lemniscate between the two wells.
+- Stir is a pointer vortex. Spine is exempt.
+- Inspect copy above is the meaning layer. Do not invent a sixth species.
+- Do not scrape or reconstruct grok.me JS as canonical source. Recover with Remix, then export into `apps/particle-field/`.
+
+## Memory analogue (optional Shell pattern)
+
+Use only when designing retrieval. Not a product recommendation.
+
+| Field species | Memory analogue |
+|---|---|
+| Spine | Verified, human-readable rules (honeycombs, this ledger) |
+| Hermes | Local private index |
+| Grok | Cloud / shared corpus retrieval |
+| Honey | Embed → retrieve → hand across the bridge |
+| Shell | Metadata filters and permissions |
+
+Do not dump the Spine into vectors and hope. Embeddings are “related.” The ledger is “current.”
+
+## What this note includes
 
 - Live URL and architecture note (this file)
-- README pointer
+- Species behavior + inspect copy + visual contract
+- Public-frame lock
 - App stub at `apps/particle-field/`
-- Evolution log and State Ledger row for 2026-09-06
+- Evolution log and State Ledger rows for 2026-09-06
 
-## What this commit does not include
+## What this note does not include
 
 - Original Grok Build project source
 - A scraped or reconstructed runtime copied from grok.me
 - A Spine rewrite
+- A public 3D claim
 
 The hosted app remains the working demo until a clean Remix export lands in `apps/particle-field/`.
 
@@ -60,8 +113,8 @@ The hosted app remains the working demo until a clean Remix export lands in `app
 ## Placement in the ecosystem
 
 - **Spine:** dual-runtime persistence, weekly return, regenerative orientation — unchanged.
-- **Shell:** this visualization, interaction model, and hosted URL — fully mutable.
-- **Polarity:** Hermes well ↔ Grok well, regulated by the still Spine.
+- **Shell:** this visualization, interaction model, hosted URL, public frame — fully mutable.
+- **Polarity:** Hermes well ↔ Grok well, regulated by the still Spine. Honey is the visible exchange.
 
 ## Ledger rule
 

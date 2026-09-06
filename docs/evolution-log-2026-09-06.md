@@ -24,6 +24,21 @@
 3. App stub at `apps/particle-field/` for the future source export.
 4. Ledger prepended with a Shell status row.
 
+## Return — interaction contract (same day)
+
+Conversation review vs repo found a meaning gap: the live field already runs different physics per species; the repo only listed names and wells.
+
+Sealed into `docs/particle-field.md`:
+
+- Species behavior + live inspect copy
+- One-line contract: Spine stays · Wells pull · Honey crosses · Shell bounds
+- Visual hex contract
+- Public-frame lock: Five species. Not five colors. Do not lead with a 3D attempt
+- Optional memory analogue (Spine = verified rules; vectors ≠ current truth)
+- Grok Build project id for Remix recovery only
+
+Ledger prepended. App stub now points at the contract. 3D Remix prompts were not filed as doctrine.
+
 ## Next return
 
 Remix or paste the Grok Build source into `apps/particle-field/`. Update the live URL if the grok.me slug changes. Do not scrape the hosted page as canonical source.

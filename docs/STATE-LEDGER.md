@@ -11,6 +11,14 @@ Supervision: S+ — Dawn only daily; Sunday message `Sync spine`
 
 ---
 
+## 2026-09-06 | Particle Field | Shell | interaction contract
+Live: https://yarrow-quartz-moss-tango.grok.me
+Sealed: species behavior + inspect copy + visual hexes + public frame
+Contract: Spine stays · Wells pull · Honey crosses · Shell bounds
+Frame: Five species. Not five colors. Do not lead with a 3D attempt.
+Git: docs/particle-field.md + apps/particle-field README pointer
+Verdict: SHIP-DRAFT meaning — source export still pending Remix; Hook 5 RETIRE below is unchanged
+
 ## 2026-09-06 | Particle Field | Shell
 Live: https://yarrow-quartz-moss-tango.grok.me
 Status: Grok-hosted visualization of dual runtime (Hermes well / Spine still / Grok well / Honey exchange / Shell orbit)

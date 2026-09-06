@@ -30,9 +30,15 @@ Exact filenames follow the Remix export. Keep the species names stable:
 
 ## Interaction contract
 
-- Drag to stir
+**Spine stays · Wells pull · Honey crosses · Shell bounds.**
+
+Controls:
+
+- Drag to stir (Spine excluded)
 - Space to pause
 - Tap a well
+
+Meaning, inspect copy, hexes, and public frame live in `docs/particle-field.md`. Do not invent a sixth species.
 
 ## Dual-write
 
