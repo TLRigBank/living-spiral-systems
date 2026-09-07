@@ -11,6 +11,13 @@ Supervision: S+ — Dawn only daily; Sunday message `Sync spine`
 
 ---
 
+## 2026-09-06 | Night Sense | Track B
+Title: Hook 5 Retire confirmed — AUTO prompt diff
+Verdict: SHIP-DRAFT — Track B executed; no new content pulse
+Excerpt: Hook 5 closed by Dawn. AUTO diff removes locked overnight-agents Hook 5 language.
+Theme overnight-agents stays open for next seed; Particle Field remains separate Shell work.
+Seed for Dawn: Confirm new content seed or open next Hook under overnight-agents; no invent.
+
 ## 2026-09-06 | Particle Field | Shell | interaction contract
 Live: https://yarrow-quartz-moss-tango.grok.me
 Sealed: species behavior + inspect copy + visual hexes + public frame
