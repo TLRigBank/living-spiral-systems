@@ -11,6 +11,13 @@ Supervision: S+ — Dawn only daily; Sunday message `Sync spine`
 
 ---
 
+## 2026-09-07 | Particle Field | Shell | source export + HUD
+Live: https://yarrow-quartz-moss-tango.grok.me
+Sealed: five-species Canvas 2D runtime in `apps/particle-field/src/`. Honey Returned vs Exploring visible. Spine stir-immune.
+Chrome: field front-and-center. Species strip is a thin HUD. Inspect is a void note (desktop) / HUD caption (mobile). No covering card.
+Git: apps/particle-field/src + docs/particle-field.md
+Verdict: SHIP — source recovered. Meaning unchanged. Hook 5 RETIRE unchanged. No public post from this row.
+
 ## 2026-09-07 | Living Spiral evolution | Honey protocol + organism map
 Title: Five species stay five. First Root is a sibling organism.
 Verdict: SHIP — meaning sealed in repo. Particle field Remix still pending.

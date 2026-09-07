@@ -1,12 +1,13 @@
 # Particle Field — Living Spiral Ecosystem
 
-**Status:** Shell visualization (Grok-hosted Build)  
+**Status:** Shell visualization (Grok-hosted Build) + canonical source in this repo  
 **Live:** https://yarrow-quartz-moss-tango.grok.me  
 **Date sealed here:** 2026-09-06  
 **Interaction contract sealed:** 2026-09-06  
 **Honey crossing + organism map sealed:** 2026-09-07  
-**Source of truth for code:** pending Remix export into `apps/particle-field/`  
-**Grok Build project id (recovery only):** `01a06fd3-a3e6-75d0-9424-51ec01ede7f8`
+**Source export + HUD chrome sealed:** 2026-09-07  
+**Source of truth for code:** `apps/particle-field/src/`  
+**Grok Build project id (recovery only):** `01a07e42-6d26-7250-a0c1-eac697fa298f`
 
 ## What it is
 
@@ -78,6 +79,17 @@ First Root is its own organism, like Eden Weaver. It uses Living Spiral rhythm. 
 
 Type in the hosted field: Fraunces (display) + Atkinson Hyperlegible (body).
 
+## Chrome (sealed 2026-09-07)
+
+The field is front and center. Species information is complementary, not a cover.
+
+- Header: title + pause. Gradient scrim only. No opaque panel.
+- Bottom HUD: species strip + one-line caption. Gradient scrim only.
+- Inspect (desktop): slim note in the upper-left void. Does not cover wells, figure-8, or Shell.
+- Inspect (mobile): caption in the bottom HUD. No covering card.
+
+Do not restore a legend box or a modal inspect card over the map.
+
 ## Controls
 
 - Drag to stir the field (Spine excluded)
@@ -102,8 +114,9 @@ Content drafts that follow this frame are Shell. They are not auto-posted. Hook 
 - Honey path is a Bernoulli lemniscate between the two wells.
 - Stir is a pointer vortex. Spine is exempt.
 - Inspect copy above is the meaning layer. Do not invent a sixth species.
-- Do not scrape or reconstruct grok.me JS as canonical source. Recover with Remix, then export into `apps/particle-field/`.
-- Honey visual may distinguish Returned vs Exploring. Physics stay five species.
+- Canonical source is `apps/particle-field/src/`. Do not scrape grok.me JS.
+- Honey visual distinguishes Returned vs Exploring. Physics stay five species.
+- Layout remaps on chrome insets so HUD size changes do not rebuild the flock.
 
 ## Memory analogue (optional Shell pattern)
 
@@ -126,30 +139,29 @@ Do not dump the Spine into vectors and hope. Embeddings are “related.” The l
 - Murmuration rules + Honey stamps
 - Sibling-organism map
 - Public-frame lock
-- App stub at `apps/particle-field/`
+- HUD chrome contract
+- Source at `apps/particle-field/`
 - Evolution log and State Ledger rows
 
 ## What this note does not include
 
-- Original Grok Build project source
+- Host scaffolding (auth, PWA, preview bridge)
 - A scraped or reconstructed runtime copied from grok.me
 - A Spine rewrite
 - A public 3D claim
 - First Root, Eden Weaver, or RAF as field species
 
-The hosted app remains the working demo until a clean Remix export lands in `apps/particle-field/`.
-
 ## Recovery path
 
 1. Open the live field.
-2. Use **Remix** on the Grok chrome to recover the project.
-3. Export or paste the project files into this repo under `apps/particle-field/`.
-4. Keep this document as the architecture note; update the live URL if the grok.me slug changes.
+2. Use **Remix** on the Grok chrome if the hosted build needs to change.
+3. Dual-write motion/meaning back into `apps/particle-field/src/` and this document.
+4. Update the live URL here if the grok.me slug changes.
 
 ## Placement in the ecosystem
 
 - **Spine:** dual-runtime persistence, weekly return, regenerative orientation — unchanged.
-- **Shell:** this visualization, interaction model, hosted URL, public frame, Honey protocol — fully mutable.
+- **Shell:** this visualization, interaction model, hosted URL, public frame, Honey protocol, HUD chrome — fully mutable.
 - **Polarity:** Hermes well ↔ Grok well, regulated by the still Spine. Honey is the visible exchange.
 
 ## Ledger rule

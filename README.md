@@ -53,9 +53,9 @@ Honey crossings are **Returned** (Spine-grade) or **Exploring** (candidate only)
 
 Live demo: [yarrow-quartz-moss-tango.grok.me](https://yarrow-quartz-moss-tango.grok.me)  
 Architecture note: [docs/particle-field.md](docs/particle-field.md)  
-App stub: [apps/particle-field](apps/particle-field)
+Source: [apps/particle-field](apps/particle-field)
 
-This is a Grok-hosted Build. Canonical source export is pending Remix. Do not treat the hosted URL as the sole source of truth.
+This is a Grok-hosted Build. Canonical source for the field runtime lives in `apps/particle-field/src/`. Do not treat the hosted URL as the sole source of truth.
 
 ## Organism map
 
