@@ -47,16 +47,36 @@ The particle field is a Shell visualization of dual-runtime polarity:
 - **Honey** — exchange along the figure-eight
 - **Shell** — outer orbit
 
+Five species. Not five colors.  
+Contract: Spine stays · Wells pull · Honey crosses · Shell bounds.  
+Honey crossings are **Returned** (Spine-grade) or **Exploring** (candidate only). See [docs/honey-crossing.md](docs/honey-crossing.md).
+
 Live demo: [yarrow-quartz-moss-tango.grok.me](https://yarrow-quartz-moss-tango.grok.me)  
 Architecture note: [docs/particle-field.md](docs/particle-field.md)  
 App stub: [apps/particle-field](apps/particle-field)
 
 This is a Grok-hosted Build. Canonical source export is pending Remix. Do not treat the hosted URL as the sole source of truth.
 
+## Organism map
+
+Living Spiral is the ecosystem and the field physics. Other public systems are **sibling organisms**. They use this rhythm. They are not field species.
+
+| Organism | Role |
+|---|---|
+| Living Spiral Systems | Ecosystem / field physics |
+| Eden Weaver | 12-dimensional regenerative guardian |
+| RAF | Regenerative AI fusion & consulting |
+| First Root | Regenerative first employee for solo founders |
+| Hermes Interface | Local regenerative agent interface |
+| Biomimicry Strategy | Nature strategies for systems design |
+
+Do not add First Root, Eden Weaver, or RAF as a sixth particle in the field.
+
 ## Related Work
 
 - [RAF Framework](https://github.com/TLRigBank/raf-framework) — regenerative AI fusion & consulting system
 - [Eden Weaver 12D](https://github.com/TLRigBank/eden-weaver-12d) — 12-dimensional regenerative AI guardian
+- [First Root](https://github.com/TLRigBank/first-root) — regenerative first-employee organism. Uses Living Spiral rhythm. Not a field species.
 - [Biomimicry Strategy](https://github.com/TLRigBank/biomimicry-strategy) — nature strategies for systems design
 - [Hermes Interface](https://github.com/TLRigBank/hermes-interface) — local regenerative agent interface
 

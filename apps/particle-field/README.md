@@ -3,7 +3,8 @@
 Living Spiral Ecosystem visualization.
 
 **Live demo:** https://yarrow-quartz-moss-tango.grok.me  
-**Architecture:** [../../docs/particle-field.md](../../docs/particle-field.md)
+**Architecture:** [../../docs/particle-field.md](../../docs/particle-field.md)  
+**Honey protocol:** [../../docs/honey-crossing.md](../../docs/honey-crossing.md)
 
 ## Current state
 
@@ -25,21 +26,28 @@ Exact filenames follow the Remix export. Keep the species names stable:
 - Spine — still core
 - Hermes — local runtime
 - Grok — cloud · generative
-- Honey — exchange
+- Honey — exchange (Returned or Exploring stamp)
 - Shell — outer orbit
 
 ## Interaction contract
 
 **Spine stays · Wells pull · Honey crosses · Shell bounds.**
 
+Murmuration rules:
+
+- Align = Spine
+- Cohere = Honey crossings
+- Separate = well physics + Shell bound
+
 Controls:
 
 - Drag to stir (Spine excluded)
 - Space to pause
 - Tap a well
+- Tap Honey to inspect Returned vs Exploring
 
-Meaning, inspect copy, hexes, and public frame live in `docs/particle-field.md`. Do not invent a sixth species.
+Meaning, inspect copy, hexes, and public frame live in `docs/particle-field.md`. Do not invent a sixth species. Do not render First Root, Eden Weaver, or RAF as particles.
 
 ## Dual-write
 
-Any durable change to meaning (not just motion or color) also updates `docs/particle-field.md` and a row in `docs/STATE-LEDGER.md`.
+Any durable change to meaning (not just motion or color) also updates `docs/particle-field.md`, `docs/honey-crossing.md` if the crossing rule changes, and a row in `docs/STATE-LEDGER.md`.
