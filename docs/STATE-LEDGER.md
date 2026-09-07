@@ -11,6 +11,15 @@ Supervision: S+ — Dawn only daily; Sunday message `Sync spine`
 
 ---
 
+## 2026-09-07 | Living Spiral evolution | Honey protocol + organism map
+Title: Five species stay five. First Root is a sibling organism.
+Verdict: SHIP — meaning sealed in repo. Particle field Remix still pending.
+Sealed: docs/honey-crossing.md (Returned / Exploring). Murmuration rules on the field (Align = Spine, Cohere = Honey, Separate = wells + Shell).
+Organism map: Living Spiral = field physics. Eden Weaver, RAF, First Root, Hermes Interface, Biomimicry Strategy = sibling organisms. First Root is not a field species and is not nested in Shell.
+TikTok @tl.rigbank = additive live-example layer only.
+Spine unchanged. Hook 5 RETIRE unchanged. No public post from this row.
+Git: living-spiral-systems + sibling notes on first-root and eden-weaver-12d.
+
 ## 2026-09-07 | Dawn Desk
 Title: Hook 5 Retire confirmed — AUTO prompt diff
 Verdict: RETIRE — Hook 5 closed; no new pulse; leave filed, do not post. Default: open next seed under overnight-agents only if real signal; no invent.
