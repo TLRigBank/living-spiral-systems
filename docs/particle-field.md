@@ -69,7 +69,7 @@ First Root is its own organism, like Eden Weaver. It uses Living Spiral rhythm. 
 | Species | Hex |
 |---|---|
 | Spine | `#f4e6c3` |
-| Hermes | `#c4a574` |
+| Hermes | `#7cc47a` |
 | Grok | `#7ec8e3` |
 | Honey | `#e0b25a` |
 | Honey Exploring | `#e0b25a` at ~0.45 opacity or shorter dashes |

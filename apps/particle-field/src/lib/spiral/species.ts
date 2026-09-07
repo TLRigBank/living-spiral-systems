@@ -19,7 +19,7 @@ export const SPECIES_ORDER: SpeciesId[] = [
 export const HEX = {
   void: "#0b0e12",
   spine: "#f4e6c3",
-  hermes: "#c4a574",
+  hermes: "#7cc47a",
   grok: "#7ec8e3",
   honey: "#e0b25a",
   shell: "#8aa4b0",
@@ -27,7 +27,7 @@ export const HEX = {
 
 export const RGB = {
   spine: [244, 230, 195] as const,
-  hermes: [196, 165, 116] as const,
+  hermes: [124, 196, 122] as const,
   grok: [126, 200, 227] as const,
   honey: [224, 178, 90] as const,
   shell: [138, 164, 176] as const,
