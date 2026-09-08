@@ -11,6 +11,13 @@ Supervision: S+ — Dawn only daily; Sunday message `Sync spine`
 
 ---
 
+## 2026-09-07 | Shell | emergent behavior note + LinkedIn article draft
+Title: The murmuration has no conductor
+Sealed: docs/emergent-behavior.md — Reynolds/starling mapping onto five species. Emergence happens around a spine that does not emerge. Particle layer ≠ ecosystem layer. Public LinkedIn article filed in the same note.
+Verdict: SHIP-DRAFT — architecture note in repo; article not auto-posted. Human posts or does not.
+Spine unchanged. Five species stay five. Hook 5 RETIRE unchanged. No public post from this row.
+Git: docs/emergent-behavior.md + pointers in honey-crossing, particle-field, README.
+
 ## 2026-09-07 | Particle Field | Shell | source export + HUD
 Live: https://yarrow-quartz-moss-tango.grok.me
 Sealed: five-species Canvas 2D runtime in `apps/particle-field/src/`. Honey Returned vs Exploring visible. Spine stir-immune.

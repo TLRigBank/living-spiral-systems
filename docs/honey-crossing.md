@@ -44,6 +44,8 @@ Neighbor map (topological, not broadcast):
 
 Do not add a coordinator species. Do not add a sixth particle.
 
+Starlings track a handful of neighbors, not a radius. This map is the same kind of rule. Full emergence note: `docs/emergent-behavior.md`.
+
 ## What Honey must not do
 
 - Dump unstamped vector similarity into the ledger

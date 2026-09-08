@@ -52,6 +52,8 @@ Honey crossings carry one of two stamps:
 
 Do not invent a sixth species. Do not add a manager particle.
 
+Emergence happens around a spine that does not emerge. Particle physics are the felt map; the murmuration is the ecosystem layer. See `docs/emergent-behavior.md`.
+
 ## Organism map (sealed 2026-09-07)
 
 The field has five species. Sibling *organisms* are not species.
@@ -137,6 +139,7 @@ Do not dump the Spine into vectors and hope. Embeddings are “related.” The l
 - Live URL and architecture note (this file)
 - Species behavior + inspect copy + visual contract
 - Murmuration rules + Honey stamps
+- Emergent behavior note (`docs/emergent-behavior.md`)
 - Sibling-organism map
 - Public-frame lock
 - HUD chrome contract
