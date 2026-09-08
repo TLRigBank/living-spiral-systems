@@ -4,12 +4,21 @@ Writable from coordinator chat / human. Automations can READ; scheduled writes h
 Path: docs/STATE-LEDGER.md
 
 ## Live spine (2026-08-26)
-Night 22:00 app_only → Dawn 07:30 (only daily ping) → Weekly Sun 09:00 → Monthly 1st → Opportunity Thu 08:00
-Theme: overnight-agents / Hook 5
+Night 22:00 app_only → Dawn 07:30 (only daily ping) → Weekly Email Crossing Sun 08:00 (Honey input) → Weekly Sun 09:00 → Monthly 1st → Opportunity Thu 08:00
+Theme: overnight-agents / Hook 5 RETIRE
 Posting: draft-only
 Supervision: S+ — Dawn only daily; Sunday message `Sync spine`
 
 ---
+
+## 2026-09-07 | Weekly Email Crossing | Shell | Honey input job created
+Title: Sunday 08:00 harvest feeds Weekly Spine — not a sixth species
+Verdict: SHIP — automation `cf71453d-adce-4c54-8b0f-e3144cf07e68` live; next run 2026-09-13 08:00 America/Phoenix
+Excerpt: Email Crossing is Honey Exploring input. Spiral Library scraper stays paused.
+Seed: Sunday Weekly Spine must name Email Crossing uptake. Do not stamp Returned from influencer links.
+Write: docs/email-crossing-latest.md SHA 82e1db177acbb6e2f5226908115d1ff679cfc5f6
+Uptake: used 2026-09-07 council email scan? Y — backlog message_ids seeded so first Sunday does not re-chew June–Sep mail.
+Spine unchanged. Five species stay five. Hook 5 RETIRE unchanged. No public post from this row.
 
 ## 2026-09-07 | Shell | emergent behavior note + LinkedIn article draft
 Title: The murmuration has no conductor
@@ -43,7 +52,7 @@ Title: Hook 5 Retire confirmed — AUTO prompt diff
 Verdict: SHIP-DRAFT — Track B executed; no new content pulse
 Excerpt: Hook 5 closed by Dawn. AUTO diff removes locked overnight-agents Hook 5 language.
 Theme overnight-agents stays open for next seed; Particle Field remains separate Shell work.
-Seed for Dawn: Confirm new content seed or open next Hook under overnight-agents; no invent.
+Seed for Dawn: Confirm new content seed or open next seed under overnight-agents; no invent.
 
 ## 2026-09-06 | Particle Field | Shell | interaction contract
 Live: https://yarrow-quartz-moss-tango.grok.me
