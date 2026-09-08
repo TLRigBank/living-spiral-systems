@@ -11,6 +11,14 @@ Supervision: S+ — Dawn only daily; Sunday message `Sync spine`
 
 ---
 
+## 2026-09-07 | Night Sense | QUIET
+Title: Hook 5 remains retired — no pack
+Verdict: QUIET — latest Dawn RETIRE + no non-retired seed in ledger; silence path taken
+Excerpt: NONE
+Seed: Dawn holds for real signal only; overnight-agents theme open but no invent; Particle Field / Email Crossing already shipped today
+Write: (this commit)
+Uptake: used 2026-09-07 Dawn + Night Track B + Shell rows? Y — RETIRE stands, five species sealed, no public post
+
 ## 2026-09-07 | Weekly Email Crossing | Shell | Honey input job created
 Title: Sunday 08:00 harvest feeds Weekly Spine — not a sixth species
 Verdict: SHIP — automation `cf71453d-adce-4c54-8b0f-e3144cf07e68` live; next run 2026-09-13 08:00 America/Phoenix
