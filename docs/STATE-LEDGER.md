@@ -11,6 +11,14 @@ Supervision: S+ — Dawn only daily; Sunday message `Sync spine`
 
 ---
 
+## 2026-09-09 | Night Sense | QUIET
+Title: Hook 5 remains retired — no pack
+Verdict: QUIET — Dawn QUIET + prior Night QUIET; no non-retired seed; silence path taken
+Excerpt: NONE
+Seed: Hold for real signal only; overnight-agents open but no invent
+Write: (this commit)
+Uptake: used 2026-09-08 Dawn Desk QUIET + Night QUIET? Y — silence path continues, no new seed
+
 ## 2026-09-08 | Night Sense | QUIET
 Title: Hook 5 remains retired — no pack
 Verdict: QUIET — Dawn QUIET + prior Night QUIET; no non-retired seed; silence path taken
