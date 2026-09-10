@@ -1,7 +1,7 @@
 # Particle Field — Living Spiral Ecosystem
 
 **Status:** Shell visualization (Grok-hosted Build) + canonical source in this repo  
-**Live:** https://yarrow-quartz-moss-tango.grok.me  
+**Live:** https://bolt-cinder-urban-cobalt.grok.me  
 **Date sealed here:** 2026-09-06  
 **Interaction contract sealed:** 2026-09-06  
 **Honey crossing + organism map sealed:** 2026-09-07  

@@ -2,7 +2,7 @@
 
 Living Spiral Ecosystem visualization. Canvas 2D. Five species.
 
-**Live demo:** https://yarrow-quartz-moss-tango.grok.me  
+**Live demo:** https://bolt-cinder-urban-cobalt.grok.me  
 **Architecture:** [../../docs/particle-field.md](../../docs/particle-field.md)  
 **Honey protocol:** [../../docs/honey-crossing.md](../../docs/honey-crossing.md)
 

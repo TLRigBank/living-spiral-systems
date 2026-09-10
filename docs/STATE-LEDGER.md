@@ -11,6 +11,13 @@ Supervision: S+ — Dawn only daily; Sunday message `Sync spine`
 
 ---
 
+## 2026-09-10 | Particle Field | Shell | live URL
+Live: https://bolt-cinder-urban-cobalt.grok.me
+Prior slug yarrow-quartz-moss-tango.grok.me remains as earlier host, not current field.
+Updated field: dual-runtime subtitle, five-species HUD, source in apps/particle-field/.
+Git: README + docs/particle-field.md + apps/particle-field README + repo homepage
+Verdict: SHIP — URL only. Meaning unchanged. Hook 5 RETIRE unchanged. No public post from this row.
+
 ## 2026-09-10 | Dawn Desk
 Title: Hook 5 remains retired — no pack
 Verdict: QUIET

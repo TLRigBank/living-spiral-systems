@@ -2,7 +2,7 @@
 
 A framework for transformation built on the conviction that **rhythm** and **proportion** are essential structural principles for coherent, sustainable change.
 
-**Live field:** [Living Spiral Ecosystem particle field](https://yarrow-quartz-moss-tango.grok.me)  
+**Live field:** [Living Spiral Ecosystem particle field](https://bolt-cinder-urban-cobalt.grok.me)  
 The spine does not spin. The field shows the life that does.
 
 Most approaches to transformation emphasize forward momentum and measurable progress. While valuable, these approaches often lack built-in mechanisms for renewal and cross-scale coherence. Over time this can lead to accumulation without integration, and measurement systems that begin to shape priorities in unintended ways.
@@ -52,7 +52,7 @@ Contract: Spine stays · Wells pull · Honey crosses · Shell bounds.
 Honey crossings are **Returned** (Spine-grade) or **Exploring** (candidate only). See [docs/honey-crossing.md](docs/honey-crossing.md).  
 Emergence: coordinated life with no conductor. See [docs/emergent-behavior.md](docs/emergent-behavior.md).
 
-Live demo: [yarrow-quartz-moss-tango.grok.me](https://yarrow-quartz-moss-tango.grok.me)  
+Live demo: [yarrow-quartz-moss-tango.grok.me](https://bolt-cinder-urban-cobalt.grok.me)  
 Architecture note: [docs/particle-field.md](docs/particle-field.md)  
 Source: [apps/particle-field](apps/particle-field)
 
