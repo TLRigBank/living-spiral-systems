@@ -8,8 +8,22 @@ Night 22:00 app_only → Dawn 07:30 (only daily ping) → Weekly Email Crossing 
 Theme: overnight-agents / Hook 5 RETIRE
 Posting: draft-only
 Supervision: S+ — Dawn only daily; Sunday message `Sync spine`
+Halt-Gate: docs/halt-gate.md — GATE line required on Night/Dawn/Weekly/EmailX
 
 ---
+
+## 2026-09-11 | Halt-Gate | Shell | live prompts patched
+GATE: JOB=WEEKLY STATUS=PASS NEXT=SKIP SKIP=POST
+Title: Halt-Gate fields live on Night / Dawn / Weekly / Email Crossing
+Verdict: SHIP — contract only. Hook 5 RETIRE unchanged. No public post.
+Excerpt: A check that cannot halt the next node is an eval.
+Seed: Tonight Night Sense emits GATE. Sunday 5-Lever stays SKIP while week is QUIET.
+Write: docs/halt-gate.md SHA 9ffbaf7a8cda498e6c9fd0a1b989658e0d2442f7
+Uptake: used 2026-09-11 Dawn QUIET + 11 Sep council research? Y
+Clone: N
+ThemeNew: N
+ConstraintSealed: Y
+Fork: keep quiet path // seven-agent content desk
 
 ## 2026-09-11 | Dawn Desk
 Title: Hook 5 remains retired — no pack
