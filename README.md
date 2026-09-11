@@ -50,6 +50,7 @@ The particle field is a Shell visualization of dual-runtime polarity:
 Five species. Not five colors.  
 Contract: Spine stays · Wells pull · Honey crosses · Shell bounds.  
 Honey crossings are **Returned** (Spine-grade) or **Exploring** (candidate only). See [docs/honey-crossing.md](docs/honey-crossing.md).  
+Halt-Gate: live jobs emit a machine-readable GATE that can skip the next node. See [docs/halt-gate.md](docs/halt-gate.md).  
 Emergence: coordinated life with no conductor. See [docs/emergent-behavior.md](docs/emergent-behavior.md).
 
 Live demo: [yarrow-quartz-moss-tango.grok.me](https://bolt-cinder-urban-cobalt.grok.me)  
