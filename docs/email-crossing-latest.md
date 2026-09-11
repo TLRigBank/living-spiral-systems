@@ -2,14 +2,32 @@
 
 **Status:** Exploring only. Not current truth. Ledger is current.
 **Job:** Weekly Email Crossing (Sun 08:00 America/Phoenix) → feeds Weekly Spine 09:00
-**Updated:** 2026-09-07 (seed from live council scan; first scheduled run 2026-09-13)
+**Updated:** 2026-09-11 (mid-week coordinator harvest; Sunday job should skip listed ids)
 
 ## Window
 Capture inbox: tlrigbank@gmail.com  
-Usual sender: tysonlrigby@gmail.com  
-This seed covers June–Sep 2026 backlog already reviewed in conversation, so Sunday 13 Sep should treat listed message_ids as harvested.
+Usual sender: tysonlrigby@gmail.com
 
 ## Harvested message_ids (do not reprocess)
+### 2026-09-11 mid-week
+- 1a0913467b201603
+- 1a091321ff35e992
+- 1a09131ec60912ea
+- 1a090c1c05490cab
+- 1a090c0e6b9e34a8
+- 1a090bb21840be88
+- 1a090b869e28094f
+- 1a090b252b950199
+- 1a08ea1480ca47f5
+- 1a08e9e8830be3fd
+- 1a08e9c78c6d6ba3
+- 1a08b81ece5862f4
+- 1a08b810faeb1939
+- 1a08b8008c339ee7
+- 1a0893584c89daf3
+- 1a08930c0684b8cb
+- 1a0892ec96672df1
+### 2026-09-07 seed
 - 1a07ef5f50d084c2
 - 1a07e515352a08dd
 - 1a0581bd25247271
@@ -38,7 +56,22 @@ This seed covers June–Sep 2026 backlog already reviewed in conversation, so Su
 - 19f7b750317f4f12
 - 19f775edcd8f76b5
 
-## Signals this seed
+## Signals 2026-09-11
+| Signal | Score | Vessel | Stamp |
+|---|---|---|---|
+| Evals vs loops; Halt-Gate | Already-present | docs/halt-gate.md + living-spiral-spine-shell | sealed this week |
+| Write must be real SHA | Complementary | halt-gate + Night/Dawn Write line | Exploring → sealed 11 Sep |
+| Real-signal rule (named + not RETIRE + existing vessel) | Complementary | halt-gate + Night Track A | Exploring → sealed 11 Sep |
+| Mid-week Exploring file, no sixth job | Complementary | this file | sealed 11 Sep |
+| Counterfactual fork ledger | Complementary | Weekly Fork field only | Exploring |
+| Seven-agent content desk | Dilute | paused factories stay paused | Dilute-hold |
+| Grok Bot phone / Bland | Dilute as Spine | Voice connector optional Shell | Dilute-hold |
+| IT³ / music-of-spheres cosmology | Dilute as architecture | — | Dilute-hold |
+| Anthropic official loop types | Sibling-fuel | halt-gate stop conditions | Exploring |
+| Agency Accelerants Notion KB | Sibling-fuel | harvest later, no new skill | Exploring |
+| Instagram / LinkedIn growth posts | Dilute as architecture | content-honeycomb only if voice-fit | Dilute-hold |
+
+## Signals from 2026-09-07 seed (still Exploring unless sealed elsewhere)
 | Signal | Score | Vessel | Stamp |
 |---|---|---|---|
 | Agent Skills as install-once encoding | Complementary (idea only) | knowledge-honeycomb | Exploring |
@@ -48,10 +81,9 @@ This seed covers June–Sep 2026 backlog already reviewed in conversation, so Su
 | Hermes computer-use question | Complementary | agent-setup-honeycomb | Exploring |
 | AWS / Bedrock / vector stack | Dilute as architecture | — | Dilute-hold |
 | Claude ZIP skill runtime | Dilute | — | Dilute-hold |
-| Career / farm / Lavender artifacts | Sibling-fuel | professional-experience / raf-case / own product | Exploring |
 
-## Chosen strategy (held for Sunday unless STEER)
-Translate at most three rules into existing vessels: voice immune, one-job artifact, skill-as-honeycomb. Do not install a second skill OS.
+## Chosen strategy
+Keep quiet path. Do not invent a theme. Sunday Weekly names this file as uptake and skips 5-Lever unless a real signal appears under the three-part rule.
 
 ## Seed for Weekly Spine
-Email Crossing vessel exists. Treat as Honey Exploring. Do not invent a theme from the influencer links.
+UptakeEmailX should be Y if this file is read. WeekRollup is QUIET unless Dawn ships a new non-retired seed. Fork: keep quiet path // seven-agent desk.
