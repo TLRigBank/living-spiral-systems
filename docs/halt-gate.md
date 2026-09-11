@@ -1,6 +1,7 @@
 # Halt-Gate field contract
 
-Sealed 2026-09-11. Shell contract. Spine principle stays in Grok skill `living-spiral-spine-shell` and this repo.
+Sealed 2026-09-11. Extended same day: Write SHA, real-signal rule, mid-week Exploring.
+Spine principle stays in Grok skill `living-spiral-spine-shell` and this repo.
 
 **Anchor:** A check that cannot halt the next node is an eval. Return the failed unit, not the batch.
 
@@ -18,18 +19,26 @@ GATE: JOB=<id> STATUS=<token> NEXT=<RUN|SKIP> SKIP=<nodes-or-NONE>
 - STATUS: `PASS` | `FAIL` | `RETIRE` | `QUIET` | `STEER`
 - SKIP targets: `DRAFT` | `5LEVER` | `PACK` | `THEME` | `POST` or `NONE`
 
-## Verdict map
+## Write gate (evolution 1)
 
-| Existing verdict | STATUS | NEXT | SKIP |
-|---|---|---|---|
-| SHIP-DRAFT | PASS | RUN | POST |
-| TIGHTEN-10 | PASS | RUN | NONE (Dawn only) |
-| RETIRE | RETIRE | SKIP | DRAFT,5LEVER,PACK,THEME,POST |
-| QUIET | QUIET | SKIP | DRAFT,5LEVER,PACK,THEME,POST |
-| bad write / clone / invented theme | FAIL | SKIP | DRAFT,PACK,THEME |
-| human must decide | STEER | SKIP | POST |
+`Write:` must be `SHA` plus a real git blob or commit hex (≥7 chars).
+`(this commit)`, empty Write, or a claimed write with no SHA change is **FAIL**.
+Dawn and Weekly must not treat a FAIL-write night as a seed.
 
-Quiet and RETIRE are valid green halts. Do not invent a next node to stay busy.
+## Real signal (evolution 2)
+
+A Night Track A seed is allowed only if all three hold:
+1. Named in the last 7 ledger days or in `docs/email-crossing-latest.md` as Complementary / Exploring
+2. Not RETIRE
+3. Maps to an existing vessel (honeycomb, sibling organism, or repo doc)
+
+Chat-only ideas are not seeds until they are filed in `email-crossing-latest.md`.
+Quiet is the correct output when no seed exists.
+
+## Mid-week Exploring (evolution 3)
+
+No sixth job. When a coordinator session harvests “review for context” mail, it prepends new `message_id`s into `docs/email-crossing-latest.md` as Exploring the same session — or names them for Sunday and stops.
+Do not stamp Returned from influencer links.
 
 ## Night extra fields
 
@@ -60,6 +69,18 @@ Fork: NONE|<chosen> // <skipped>
 - WeekRollup RETIRE or QUIET → FiveLever=SKIP. Valid green.
 - 5-Lever runs only when WeekRollup is SHIP or MIX and UptakeEmailX=Y.
 - Fork=NONE on quiet weeks. No ghost paths.
+- Long edge (evolution 4): ConstraintSealed=Y only after recurrence. One sentence into an existing honeycomb + this repo. Raw notes die.
+
+## Verdict map
+
+| Existing verdict | STATUS | NEXT | SKIP |
+|---|---|---|---|
+| SHIP-DRAFT | PASS | RUN | POST |
+| TIGHTEN-10 | PASS | RUN | NONE (Dawn only) |
+| RETIRE | RETIRE | SKIP | DRAFT,5LEVER,PACK,THEME,POST |
+| QUIET | QUIET | SKIP | DRAFT,5LEVER,PACK,THEME,POST |
+| bad write / clone / invented theme | FAIL | SKIP | DRAFT,PACK,THEME |
+| human must decide | STEER | SKIP | POST |
 
 ## Skip map
 
@@ -71,7 +92,9 @@ Fork: NONE|<chosen> // <skipped>
 | FAIL | score the failure; no rebuild | must not use Night as seed | SKIP |
 | STEER | wait | wait | SKIP POST |
 
-Email Crossing does not run 5-Lever. FAIL only if its write fails.
+## Hermes pull (evolution 5)
+
+Local Hermes does not rewrite this contract from chat. It pulls `docs/halt-gate.md` from this repo. Grok cannot write the Mac mini.
 
 ## Dual-write
 
