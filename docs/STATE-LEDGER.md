@@ -1,6 +1,6 @@
 # Living Spiral State Ledger
 
-Writable from coordinator chat / human. Automations can READ; scheduled writes have failed in test.
+Writable from coordinator chat / human. Write must be SHA (>=7 hex) or FAIL. "(this commit)" is illegal.
 Path: docs/STATE-LEDGER.md
 
 ## Live spine (2026-08-26)
@@ -9,8 +9,20 @@ Theme: overnight-agents / Hook 5 RETIRE
 Posting: draft-only
 Supervision: S+ — Dawn only daily; Sunday message `Sync spine`
 Halt-Gate: docs/halt-gate.md — GATE line required on Night/Dawn/Weekly/EmailX
+Real signal: named in last 7 days or email-crossing-latest.md + not RETIRE + existing vessel.
 
 ---
+
+## 2026-09-11 | Evolutions 1–4 | Shell
+GATE: JOB=WEEKLY STATUS=PASS NEXT=SKIP SKIP=POST
+Title: Write SHA + real-signal + mid-week Exploring filed
+Verdict: SHIP — contract only. No public post. Hook 5 RETIRE unchanged.
+Excerpt: Chat-only ideas are not seeds. File Exploring same session.
+Seed: Tonight Night QUIET unless real signal; Sunday uptake this file.
+Write: SHA cfd676ef halt-gate; SHA 9f7547d9 email-crossing-latest
+Uptake: used 11 Sep Halt-Gate row + morning Gmail harvest? Y
+ConstraintSealed: Y
+Fork: keep quiet path // invent theme from X posts
 
 ## 2026-09-11 | Halt-Gate | Shell | live prompts patched
 GATE: JOB=WEEKLY STATUS=PASS NEXT=SKIP SKIP=POST
