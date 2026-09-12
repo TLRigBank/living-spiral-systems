@@ -20,7 +20,7 @@ Verdict: QUIET — PriorDawn QUIET + same-title streak; no real signal; silence 
 Clone: N
 PriorDawn: QUIET
 SameTitleStreak: 4
-Write: SHA pending
+Write: SHA 214c7dbd
 ThemeNew: N
 Excerpt: NONE
 Seed: Hold for real signal only; overnight-agents open but no invent
