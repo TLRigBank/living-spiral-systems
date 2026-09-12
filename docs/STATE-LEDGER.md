@@ -13,6 +13,19 @@ Real signal: named in last 7 days or email-crossing-latest.md + not RETIRE + exi
 
 ---
 
+## 2026-09-11 | Night Sense | QUIET
+GATE: JOB=NIGHT STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
+Title: Hook 5 remains retired — no pack
+Verdict: QUIET — PriorDawn QUIET + same-title streak; no real signal; silence path taken
+Clone: N
+PriorDawn: QUIET
+SameTitleStreak: 4
+Write: SHA pending
+ThemeNew: N
+Excerpt: NONE
+Seed: Hold for real signal only; overnight-agents open but no invent
+Uptake: used 2026-09-11 Dawn Desk QUIET + Halt-Gate rows? Y — silence path continues, no new seed
+
 ## 2026-09-11 | Evolutions 1–4 | Shell
 GATE: JOB=WEEKLY STATUS=PASS NEXT=SKIP SKIP=POST
 Title: Write SHA + real-signal + mid-week Exploring filed
