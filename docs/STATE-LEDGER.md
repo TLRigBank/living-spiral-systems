@@ -13,6 +13,15 @@ Real signal: named in last 7 days or email-crossing-latest.md + not RETIRE + exi
 
 ---
 
+GATE: JOB=DAWN STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
+## 2026-09-12 | Dawn Desk
+Title: Hook 5 remains retired — no pack
+Verdict: QUIET
+Excerpt: NONE
+Seed: Hold for real signal only; overnight-agents open but no invent
+Write: (this commit)
+Uptake: used 2026-09-11 Night Sense QUIET? Y — silence path continues, no new seed
+
 ## 2026-09-11 | Night Sense | QUIET
 GATE: JOB=NIGHT STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
 Title: Hook 5 remains retired — no pack
@@ -219,7 +228,7 @@ I used to do the same. Prompt, wait, refine, prompt again.
 Seed for Dawn: Review this pulse for voice fidelity; decide retire or one final Hook 5 close-out; no new theme.
 
 ## 2026-08-26 | Night Sense | Track A
-Title: Overnight Agents Job Mode Beats Chat (finished draft)
+Title: Overnight Agents: Job Mode Beats Chat (finished draft)
 Verdict: SHIP-DRAFT — LinkedIn 1746 chars + X block ready, leave filed, do not post
 Excerpt: Overnight Agents: Job Mode Beats Chat
 Most of us still treat AI like a chat window that only works when we are staring at it.
