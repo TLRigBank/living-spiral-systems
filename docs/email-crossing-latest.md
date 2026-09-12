@@ -1,14 +1,25 @@
 # Email Crossing — Latest
 
 **Status:** Exploring only. Not current truth. Ledger is current.
-**Job:** Weekly Email Crossing (Sun 08:00 America/Phoenix) → feeds Weekly Spine 09:00
-**Updated:** 2026-09-11 (mid-week coordinator harvest; Sunday job should skip listed ids)
+**Job:** Night Honey Peek (daily) → Dawn newspaper → Weekly Email Crossing (Sun 08:00) → Weekly Spine 09:00
+**Updated:** 2026-09-12 (coordinator mid-week file; Sunday skips listed ids)
 
 ## Window
 Capture inbox: tlrigbank@gmail.com  
 Usual sender: tysonlrigby@gmail.com
 
 ## Harvested message_ids (do not reprocess)
+### 2026-09-12 mid-week
+- 1a096004f74ed454
+- 1a095ff1f9897dca
+- 1a095fe325ab2bfa
+- 1a095fd0d1e94a09
+- 1a095fa96774ff6a
+- 1a09367af25776b8
+- 1a09364e9eef40f7
+- 1a0936285f20748c
+- 1a0935fa3265b05c
+- 1a091c6e46a3f7c6
 ### 2026-09-11 mid-week
 - 1a0913467b201603
 - 1a091321ff35e992
@@ -46,7 +57,7 @@ Usual sender: tysonlrigby@gmail.com
 - 1a012db2e5f64b50
 - 1a0121d4d0e5a29b
 - 1a010176fffd4af7
-- 1a00c9483cdb8a32
+- 1a00c9483cdb5a32
 - 1a007d0e4cf86813
 - 19fee31235923af3
 - 19fed3c8163c0aff
@@ -55,6 +66,15 @@ Usual sender: tysonlrigby@gmail.com
 - 19fe1f0afa3b7357
 - 19f7b750317f4f12
 - 19f775edcd8f76b5
+
+## Coordinator peek 2026-09-12 (Exploring)
+| Signal | Score | Vessel | Stamp |
+|---|---|---|---|
+| Time-aware knowledge graph for agents (LinkedIn) | Sibling-fuel | knowledge-honeycomb / Hermes Interface | Exploring |
+| X posts cluster (4 links, morning) | Dilute as architecture | — | Dilute-hold |
+| Faceless-page profit formats | Dilute | paused factories stay paused | Dilute-hold |
+| Digital-product / income Instagram | Dilute as Spine; cash need is real | Opportunity Scan + First Root + RAF diagnostic | Dilute-hold as tactic |
+| IG growth / reel templates | Dilute as architecture | content-honeycomb only if voice-fit | Dilute-hold |
 
 ## Signals 2026-09-11
 | Signal | Score | Vessel | Stamp |
@@ -83,7 +103,7 @@ Usual sender: tysonlrigby@gmail.com
 | Claude ZIP skill runtime | Dilute | — | Dilute-hold |
 
 ## Chosen strategy
-Keep quiet path. Do not invent a theme. Sunday Weekly names this file as uptake and skips 5-Lever unless a real signal appears under the three-part rule.
+Keep quiet path. Daily Honey Peek files ids. Dawn newspapers topics. Sunday dives patterns. Do not invent a theme from IG income posts.
 
 ## Seed for Weekly Spine
-UptakeEmailX should be Y if this file is read. WeekRollup is QUIET unless Dawn ships a new non-retired seed. Fork: keep quiet path // seven-agent desk.
+UptakeEmailX should be Y if this file is read. UptakeEmailPeek starts tonight. WeekRollup is QUIET unless Dawn ships a new non-retired seed. Fork: keep quiet path // faceless-page factory.
