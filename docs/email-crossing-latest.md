@@ -2,13 +2,15 @@
 
 **Status:** Exploring only. Not current truth. Ledger is current.
 **Job:** Night Honey Peek (daily) → Dawn newspaper → Weekly Email Crossing (Sun 08:00) → Weekly Spine 09:00
-**Updated:** 2026-09-12 (coordinator mid-week file; Sunday skips listed ids)
+**Updated:** 2026-09-13 (Weekly Email Crossing — QUIET; zero new threads in 8d window)
 
 ## Window
 Capture inbox: tlrigbank@gmail.com  
 Usual sender: tysonlrigby@gmail.com
 
 ## Harvested message_ids (do not reprocess)
+### 2026-09-13 Weekly (no new)
+(none — all from:tysonlrigby@gmail.com and subject-review threads in window already listed below)
 ### 2026-09-12 mid-week
 - 1a096004f74ed454
 - 1a095ff1f9897dca
@@ -67,7 +69,15 @@ Usual sender: tysonlrigby@gmail.com
 - 19f7b750317f4f12
 - 19f775edcd8f76b5
 
-## Coordinator peek 2026-09-12 (Exploring)
+## Coordinator peek 2026-09-13 Weekly (QUIET)
+| Signal | Score | Vessel | Stamp |
+|---|---|---|---|
+| (none new) | — | — | QUIET |
+| Prior time-aware knowledge graph (LinkedIn) | Sibling-fuel | knowledge-honeycomb / Hermes Interface | Exploring |
+| X / IG growth & income clusters | Dilute | — | Dilute-hold |
+| Halt-Gate / real-signal / SHA rules | Already-present | docs/halt-gate.md + living-spiral-spine-shell | sealed |
+
+## Signals 2026-09-12 / 09-11 (retained)
 | Signal | Score | Vessel | Stamp |
 |---|---|---|---|
 | Time-aware knowledge graph for agents (LinkedIn) | Sibling-fuel | knowledge-honeycomb / Hermes Interface | Exploring |
@@ -75,10 +85,6 @@ Usual sender: tysonlrigby@gmail.com
 | Faceless-page profit formats | Dilute | paused factories stay paused | Dilute-hold |
 | Digital-product / income Instagram | Dilute as Spine; cash need is real | Opportunity Scan + First Root + RAF diagnostic | Dilute-hold as tactic |
 | IG growth / reel templates | Dilute as architecture | content-honeycomb only if voice-fit | Dilute-hold |
-
-## Signals 2026-09-11
-| Signal | Score | Vessel | Stamp |
-|---|---|---|---|
 | Evals vs loops; Halt-Gate | Already-present | docs/halt-gate.md + living-spiral-spine-shell | sealed this week |
 | Write must be real SHA | Complementary | halt-gate + Night/Dawn Write line | Exploring → sealed 11 Sep |
 | Real-signal rule (named + not RETIRE + existing vessel) | Complementary | halt-gate + Night Track A | Exploring → sealed 11 Sep |
@@ -103,7 +109,7 @@ Usual sender: tysonlrigby@gmail.com
 | Claude ZIP skill runtime | Dilute | — | Dilute-hold |
 
 ## Chosen strategy
-Keep quiet path. Daily Honey Peek files ids. Dawn newspapers topics. Sunday dives patterns. Do not invent a theme from IG income posts.
+QUIET. Keep quiet path. Daily Honey Peek files ids. Dawn newspapers topics. Sunday dives patterns only into existing vessels. Do not invent a theme. Hook 5 remains RETIRE.
 
 ## Seed for Weekly Spine
-UptakeEmailX should be Y if this file is read. UptakeEmailPeek starts tonight. WeekRollup is QUIET unless Dawn ships a new non-retired seed. Fork: keep quiet path // faceless-page factory.
+UptakeEmailX=Y. UptakeEmailPeek=Y. WeekRollup=QUIET. DailyEmailPattern=NONE/quiet 7d. EcosystemDive=none. FiveLever=SKIP. Fork: keep quiet path // invent theme from IG income posts.
