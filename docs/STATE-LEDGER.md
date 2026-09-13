@@ -14,6 +14,17 @@ Daily email: Night Peek files Exploring; Dawn summarizes; Weekly dives patterns.
 
 ---
 
+GATE: JOB=DAWN STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
+## 2026-09-13 | Dawn Desk
+Title: Hook 5 remains retired — no pack
+Verdict: QUIET
+Excerpt: NONE
+Seed: Hold for real signal only; overnight-agents open but no invent
+EmailSummary: NONE
+EmailRecs: NONE
+Write: (this commit)
+Uptake: used 2026-09-11 Night Sense QUIET? Y — silence path continues, no new seed
+
 GATE: JOB=WEEKLY STATUS=PASS NEXT=SKIP SKIP=POST
 ## 2026-09-12 | Shell | daily email loop fitted into existing jobs
 Title: Honey Peek on Night · newspaper on Dawn · pattern dive on Weekly
