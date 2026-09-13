@@ -14,6 +14,15 @@ Daily email: Night Peek files Exploring; Dawn summarizes; Weekly dives patterns.
 
 ---
 
+GATE: JOB=EMAILX STATUS=QUIET NEXT=SKIP SKIP=5LEVER,PACK,THEME,POST
+## 2026-09-13 | Weekly Email Crossing | Shell
+Title: Zero new threads — quiet harvest feeds Weekly Spine
+Verdict: QUIET
+Excerpt: All from:tysonlrigby + review-subject mails already harvested. Daily peek pattern = NONE/quiet 7d. Hook 5 remains RETIRE.
+Seed: UptakeEmailX=Y; UptakeEmailPeek=Y; WeekRollup=QUIET; FiveLever=SKIP; keep quiet path
+Write: email-crossing SHA fd4124aca86b4efba644dddbef76ff2675651343; commit 94b8b7b2
+Uptake: used prior 2026-09-12 mid-week Exploring + Dawn QUIET rows? Y — silence path continues
+
 GATE: JOB=DAWN STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
 ## 2026-09-13 | Dawn Desk
 Title: Hook 5 remains retired — no pack
