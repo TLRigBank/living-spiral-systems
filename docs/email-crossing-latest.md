@@ -2,13 +2,15 @@
 
 **Status:** Exploring only. Not current truth. Ledger is current.
 **Job:** Night Honey Peek (daily) → Dawn newspaper → Weekly Email Crossing (Sun 08:00) → Weekly Spine 09:00
-**Updated:** 2026-09-13 (Weekly Email Crossing — QUIET; zero new threads in 8d window)
+**Updated:** 2026-09-13 Night Peek (1 new IG revenue thread)
 
 ## Window
 Capture inbox: tlrigbank@gmail.com  
 Usual sender: tysonlrigby@gmail.com
 
 ## Harvested message_ids (do not reprocess)
+### 2026-09-13 Night Peek
+- 1a09cf813c2eeee7
 ### 2026-09-13 Weekly (no new)
 (none — all from:tysonlrigby@gmail.com and subject-review threads in window already listed below)
 ### 2026-09-12 mid-week
@@ -68,6 +70,11 @@ Usual sender: tysonlrigby@gmail.com
 - 19fe1f0afa3b7357
 - 19f7b750317f4f12
 - 19f775edcd8f76b5
+
+## Night Peek 2026-09-13
+| message_id | subject | score |
+|---|---|---|
+| 1a09cf813c2eeee7 | Review for revenue generating potential (IG) | Dilute |
 
 ## Coordinator peek 2026-09-13 Weekly (QUIET)
 | Signal | Score | Vessel | Stamp |
