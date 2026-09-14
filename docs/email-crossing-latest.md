@@ -2,13 +2,17 @@
 
 **Status:** Exploring only. Not current truth. Ledger is current.
 **Job:** Night Honey Peek (daily) → Dawn newspaper → Weekly Email Crossing (Sun 08:00) → Weekly Spine 09:00
-**Updated:** 2026-09-13 Night Peek (1 new IG revenue thread)
+**Updated:** 2026-09-14 Dawn Catch-up (3 new X context threads)
 
 ## Window
 Capture inbox: tlrigbank@gmail.com  
 Usual sender: tysonlrigby@gmail.com
 
 ## Harvested message_ids (do not reprocess)
+### 2026-09-14 Dawn Catch-up
+- 1a0a0202966962ce
+- 1a0a01f779962f99
+- 1a0a01ec8a607a16
 ### 2026-09-13 Night Peek
 - 1a09cf813c2eeee7
 ### 2026-09-13 Weekly (no new)
@@ -70,6 +74,13 @@ Usual sender: tysonlrigby@gmail.com
 - 19fe1f0afa3b7357
 - 19f7b750317f4f12
 - 19f775edcd8f76b5
+
+## Dawn Catch-up 2026-09-14
+| message_id | subject | score |
+|---|---|---|
+| 1a0a0202966962ce | How can we apply this to grok | Exploring |
+| 1a0a01f779962f99 | Review for helpful context | Exploring |
+| 1a0a01ec8a607a16 | Review for helpful context | Exploring |
 
 ## Night Peek 2026-09-13
 | message_id | subject | score |
