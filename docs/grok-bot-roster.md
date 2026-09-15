@@ -47,7 +47,7 @@ Evenings-shaped SLA: interviews after 17:30 Phoenix or Saturday; readout on day 
 
 Not published until Diagnostic returns: RAF Sprint (from $12,000), RAF Steward ($2,400/mo after a transferred loop), First Root install.
 
-Accuracy: no invented client outcomes. USAA language stays “contributed to.” Cox Cactus Farm Shadow Diagnostic is a **worked example, not a client.**
+Accuracy: no invented client outcomes. USAA language stays “contributed to.” The nursery Shadow Diagnostic is a **worked example, not a client.** Do not name the grower.
 
 ## May / must not
 
@@ -55,8 +55,8 @@ Accuracy: no invented client outcomes. USAA language stays “contributed to.”
 |---|---|---|
 | Slate | Print GATE; route | Draft copy, send mail, invent themes |
 | Saffron | Cap 10 names / run; Public or Warm artifact | Stamp Returned; auto-send |
-| Indigo | FAIL fake claims, missing price, hourly drift, COI tags | Write the offer |
-| Terracotta | Diagnostic PDF, outreach drafts, readout script | Send, post, apply |
+| Indigo | FAIL fake claims, missing price, hourly drift, COI tags, named grower in Shadow materials | Write the offer |
+| Terracotta | Diagnostic PDF, outreach drafts, readout script | Send, post, apply, name the nursery |
 | Ember | Repo / demo SHA | Merge without human |
 
 ## Halt-Gate (commercial JOB ids — do not collide with spine jobs)
@@ -69,6 +69,7 @@ Accuracy: no invented client outcomes. USAA language stays “contributed to.”
 
 Map:
 - Invented logo / fake metric / “owned” USAA claim → `FAIL` + SKIP SEND,PRICE
+- Named grower in Shadow Diagnostic materials → `FAIL` + SKIP SEND
 - Zero names with Public or Warm artifact → `QUIET` on SCOUT
 - Human must send or price → `STEER` + SKIP SEND
 - Diagnostic in flight → no second DIAG
@@ -87,8 +88,8 @@ Vessel for Exploring names: `docs/pipeline-exploring.md` (create on first Saffro
 Always: living-spiral-spine-shell (orientation only), this file, Accuracy / claim rules.
 Saffron: professional-experience ICP + Public/Warm rule.
 Terracotta: raf-engine intake + offer lock.
-Indigo: career-transition accuracy language + COI.
-Ember: particle-field / First Root / Shadow Diagnostic when named.
+Indigo: career-transition accuracy language + COI + nursery anonymity.
+Ember: particle-field / First Root / anonymized Shadow Diagnostic when named.
 
 ## Surfaces
 
