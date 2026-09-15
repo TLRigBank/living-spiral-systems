@@ -74,6 +74,12 @@ Living Spiral is the ecosystem and the field physics. Other public systems are *
 
 Do not add First Root, Eden Weaver, or RAF as a sixth particle in the field.
 
+## Commercial Shell (Grok Bots)
+
+Cloud Grok Bots are a **delivery surface** for RAF, not a field species and not a live-spine job. Hermes-separate this cycle.  
+Door SKU: **RAF Diagnostic — $3,500 — 10 business days.**  
+Roster + Halt-Gate commercial JOB ids: [docs/grok-bot-roster.md](docs/grok-bot-roster.md).
+
 ## Related Work
 
 - [RAF Framework](https://github.com/TLRigBank/raf-framework) — regenerative AI fusion & consulting system
