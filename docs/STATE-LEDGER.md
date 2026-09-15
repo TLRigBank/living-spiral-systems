@@ -14,6 +14,17 @@ Daily email: Night Peek files Exploring; Dawn summarizes; Weekly dives patterns.
 
 ---
 
+GATE: JOB=WEEKLY STATUS=PASS NEXT=SKIP SKIP=POST
+## 2026-09-15 | Shell | Grok Bot roster + RAF Diagnostic price lock
+Title: Commercial Shell sits beside the field — not in it
+Verdict: SHIP — contract only. No public post. Hook 5 RETIRE unchanged. Hermes-separate.
+Excerpt: Four Grok Bots (Coordinator, Scout, Gate, Smith) serve RAF. Door SKU $3,500 / 10 business days. Commercial JOB ids SCOUT|CLAIM|SMITH|FORGE|DIAG do not collide with Night/Dawn.
+Seed: Next human action is Smith Diagnostic one-pager or first Scout 10. Not a new spine job.
+Write: SHA 23ac3032 docs/grok-bot-roster.md; commit eb53e5a5; README commit 3d59f0f3
+Uptake: used 15 Sep council pricing + bot architecture? Y
+ConstraintSealed: Y — Grok Bots are Shell commerce, not a sixth species
+Fork: Hermes-separate roster // dual-runtime bot sharing this cycle
+
 GATE: JOB=DAWN STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
 ## 2026-09-15 | Dawn Desk
 Title: Hook 5 remains retired — no pack
