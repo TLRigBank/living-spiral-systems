@@ -2,13 +2,17 @@
 
 **Status:** Exploring only. Not current truth. Ledger is current.
 **Job:** Night Honey Peek (daily) → Dawn newspaper → Weekly Email Crossing (Sun 08:00) → Weekly Spine 09:00
-**Updated:** 2026-09-15 Dawn Catch-up (3 new X context)
+**Updated:** 2026-09-15 Night Peek (3 new X context)
 
 ## Window
 Capture inbox: tlrigbank@gmail.com  
 Usual sender: tysonlrigby@gmail.com
 
 ## Harvested message_ids (do not reprocess)
+### 2026-09-15 Night Peek
+- 1a0a5ed2578bb8f5
+- 1a0a5ec8972d64a3
+- 1a0a5d41524a634e
 ### 2026-09-15 Dawn Catch-up
 - 1a0a53ccbdbcae02
 - 1a0a53bea1339771
@@ -85,6 +89,13 @@ Usual sender: tysonlrigby@gmail.com
 - 19f7b750317f4f12
 - 19f775edcd8f76b5
 
+## Night Peek 2026-09-15
+| message_id | subject | score |
+|---|---|---|
+| 1a0a5ed2578bb8f5 | Any good context in here we can apply? | Exploring |
+| 1a0a5ec8972d64a3 | Review for helpful context | Exploring |
+| 1a0a5d41524a634e | Review for helpful context | Exploring |
+
 ## Dawn Catch-up 2026-09-15
 | message_id | subject | score |
 |---|---|---|
@@ -115,7 +126,7 @@ Usual sender: tysonlrigby@gmail.com
 
 ## Coordinator peek 2026-09-13 Weekly (QUIET)
 | Signal | Score | Vessel | Stamp |
-|---|---|---|---|
+|---|---|---|
 | (none new) | — | — | QUIET |
 | Prior time-aware knowledge graph (LinkedIn) | Sibling-fuel | knowledge-honeycomb / Hermes Interface | Exploring |
 | X / IG growth & income clusters | Dilute | — | Dilute-hold |
@@ -123,7 +134,7 @@ Usual sender: tysonlrigby@gmail.com
 
 ## Signals 2026-09-12 / 09-11 (retained)
 | Signal | Score | Vessel | Stamp |
-|---|---|---|---|
+|---|---|---|
 | Time-aware knowledge graph for agents (LinkedIn) | Sibling-fuel | knowledge-honeycomb / Hermes Interface | Exploring |
 | X posts cluster (4 links, morning) | Dilute as architecture | — | Dilute-hold |
 | Faceless-page profit formats | Dilute | paused factories stay paused | Dilute-hold |
@@ -143,7 +154,7 @@ Usual sender: tysonlrigby@gmail.com
 
 ## Signals from 2026-09-07 seed (still Exploring unless sealed elsewhere)
 | Signal | Score | Vessel | Stamp |
-|---|---|---|---|
+|---|---|---|
 | Agent Skills as install-once encoding | Complementary (idea only) | knowledge-honeycomb | Exploring |
 | Anti-slop + personal voice + ADHD brevity | Complementary | content-honeycomb / personal-linkedin-voice | Exploring |
 | One job per post; flop ≠ more volume | Complementary | Night/Dawn closer + content-honeycomb | Exploring |
