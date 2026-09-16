@@ -14,6 +14,23 @@ Daily email: Night Peek files Exploring; Dawn summarizes; Weekly dives patterns.
 
 ---
 
+GATE: JOB=NIGHT STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
+## 2026-09-15 | Night Sense | QUIET
+Title: Hook 5 remains retired — no pack
+Verdict: QUIET — PriorDawn QUIET + same-title streak; no real signal; silence path taken
+Clone: N
+PriorDawn: QUIET
+SameTitleStreak: 7
+Write: SHA 496b2c4c
+ThemeNew: N
+EmailPeek: N
+EmailNew: 3
+EmailTopics: X context reviews
+EmailComplementary: 3
+Excerpt: NONE
+Seed: Hold for real signal only; overnight-agents open but no invent
+Uptake: used 2026-09-15 Dawn Desk QUIET? Y — silence path continues, no new seed
+
 GATE: JOB=WEEKLY STATUS=PASS NEXT=SKIP SKIP=POST
 ## 2026-09-15 | Shell | Grok Bot roster + RAF Diagnostic price lock
 Title: Commercial Shell sits beside the field — not in it
