@@ -2,13 +2,18 @@
 
 **Status:** Exploring only. Not current truth. Ledger is current.
 **Job:** Night Honey Peek (daily) → Dawn newspaper → Weekly Email Crossing (Sun 08:00) → Weekly Spine 09:00
-**Updated:** 2026-09-15 Night Peek (3 new X context)
+**Updated:** 2026-09-16 Night Peek (4 new X context)
 
 ## Window
 Capture inbox: tlrigbank@gmail.com  
 Usual sender: tysonlrigby@gmail.com
 
 ## Harvested message_ids (do not reprocess)
+### 2026-09-16 Night Peek
+- 1a0ab873a7ad3024
+- 1a0ab0dca1939faa
+- 1a0ab0d19f56da44
+- 1a0ab0c9f682eb05
 ### 2026-09-15 Night Peek
 - 1a0a5ed2578bb8f5
 - 1a0a5ec8972d64a3
@@ -88,6 +93,14 @@ Usual sender: tysonlrigby@gmail.com
 - 19fe1f0afa3b7357
 - 19f7b750317f4f12
 - 19f775edcd8f76b5
+
+## Night Peek 2026-09-16
+| message_id | subject | score |
+|---|---|---|
+| 1a0ab873a7ad3024 | Review for helpful context | Exploring |
+| 1a0ab0dca1939faa | Review for helpful context | Exploring |
+| 1a0ab0d19f56da44 | Review for helpful context | Exploring |
+| 1a0ab0c9f682eb05 | Review for helpful context | Exploring |
 
 ## Night Peek 2026-09-15
 | message_id | subject | score |
