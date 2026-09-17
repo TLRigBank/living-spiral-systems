@@ -22,7 +22,7 @@ Excerpt: NONE
 Seed: Hold for real signal only; overnight-agents open but no invent
 EmailSummary: X context reviews; Grok bot context
 EmailRecs: hold Grok-bot Dilute; file-for-Sunday X-context threads; existing-vessel-note knowledge-honeycomb
-Write: SHA d3d9b51c
+Write: SHA cf7484f4
 Uptake: used 2026-09-16 Night Sense QUIET? Y — silence path continues, no new seed
 
 GATE: JOB=NIGHT STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
@@ -191,17 +191,6 @@ Seed: Hold for real signal only; overnight-agents open but no invent
 Uptake: used 2026-09-11 Dawn Desk QUIET + Halt-Gate rows? Y — silence path continues, no new seed
 
 ## 2026-09-11 | Evolutions 1–4 | Shell
-GATE: JOB=WEEKLY STATUS=PASS NEXT=SKIP SKIP=POST
-Title: Write SHA + real-signal + mid-week Exploring filed
-Verdict: SHIP — contract only. No public post. Hook 5 RETIRE unchanged.
-Excerpt: Chat-only ideas are not seeds. File Exploring same session.
-Seed: Tonight Night QUIET unless real signal; Sunday uptake this file.
-Write: SHA cfd676ef halt-gate; SHA 9f7547d9 email-crossing-latest
-Uptake: used 11 Sep Halt-Gate row + morning Gmail harvest? Y
-ConstraintSealed: Y
-Fork: keep quiet path // invent theme from X posts
-
-## 2026-09-11 | Halt-Gate | Shell | live prompts patched
 GATE: JOB=WEEKLY STATUS=PASS NEXT=SKIP SKIP=POST
 Title: Write SHA + real-signal + mid-week Exploring filed
 Verdict: SHIP — contract only. No public post. Hook 5 RETIRE unchanged.
