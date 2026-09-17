@@ -22,7 +22,7 @@ Excerpt: NONE
 Seed: Hold for real signal only; overnight-agents open but no invent
 EmailSummary: X context reviews; Grok bot context
 EmailRecs: hold Grok-bot Dilute; file-for-Sunday X-context threads; existing-vessel-note knowledge-honeycomb
-Write: SHA cf7484f4
+Write: SHA 6ce41e37
 Uptake: used 2026-09-16 Night Sense QUIET? Y — silence path continues, no new seed
 
 GATE: JOB=NIGHT STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
