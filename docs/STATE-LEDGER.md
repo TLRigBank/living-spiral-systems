@@ -22,7 +22,7 @@ Excerpt: NONE
 Seed: Hold for real signal only; overnight-agents open but no invent
 EmailSummary: helpful context; Grokbot context
 EmailRecs: hold Grokbot Dilute; file-for-Sunday helpful-context threads; existing-vessel-note knowledge-honeycomb
-Write: SHA (pending)
+Write: SHA 8c8c0a1f
 Uptake: used 2026-09-19 Night Sense QUIET? Y — silence path continues, no new seed
 
 GATE: JOB=NIGHT STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
@@ -94,23 +94,6 @@ Uptake: used 2026-09-16 Night Sense QUIET? Y — silence path continues, no new 
 
 GATE: JOB=NIGHT STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
 ## 2026-09-16 | Night Sense | QUIET
-Title: Hook 5 remains retired — no pack
-Verdict: QUIET — PriorDawn QUIET + same-title streak; no real signal; silence path taken
-Clone: N
-PriorDawn: QUIET
-SameTitleStreak: 8
-Write: SHA fa86cecd
-ThemeNew: N
-EmailPeek: N
-EmailNew: 4
-EmailTopics: X context reviews
-EmailComplementary: 4
-Excerpt: NONE
-Seed: Hold for real signal only; overnight-agents open but no invent
-Uptake: used 2026-09-16 Dawn Desk QUIET? Y — silence path continues, no new seed
-
-GATE: JOB=DAWN STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
-## 2026-09-16 | Dawn Desk
 Title: Hook 5 remains retired — no pack
 Verdict: QUIET
 Excerpt: NONE
