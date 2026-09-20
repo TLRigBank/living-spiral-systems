@@ -21,7 +21,7 @@ Verdict: QUIET — PriorDawn QUIET + same-title streak; no real signal; silence 
 Clone: N
 PriorDawn: QUIET
 SameTitleStreak: 10
-Write: SHA d54de25b
+Write: SHA 6e9e9321
 ThemeNew: N
 EmailPeek: N
 EmailNew: 4
