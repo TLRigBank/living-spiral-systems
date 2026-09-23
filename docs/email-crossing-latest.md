@@ -2,13 +2,15 @@
 
 **Status:** Exploring only. Not current truth. Ledger is current.
 **Job:** Night Honey Peek (daily) → Dawn newspaper → Weekly Email Crossing (Sun 08:00) → Weekly Spine 09:00
-**Updated:** 2026-09-21 Night Peek
+**Updated:** 2026-09-22 Night Peek
 
 ## Window
 Capture inbox: tlrigbank@gmail.com  
 Usual sender: tysonlrigby@gmail.com
 
 ## Harvested message_ids (do not reprocess)
+### 2026-09-22 Night Peek
+- 1a0cb568f7bff741
 ### 2026-09-21 Night Peek (no new)
 (none — all from:tysonlrigby@gmail.com threads in 2d window already listed below)
 ### 2026-09-21 Dawn Catch-up
@@ -122,6 +124,11 @@ Usual sender: tysonlrigby@gmail.com
 - 19fe1f0afa3b7357
 - 19f7b750317f4f12
 - 19f775edcd8f76b5
+
+## Night Peek 2026-09-22
+| message_id | subject | score |
+|---|---|---|
+| 1a0cb568f7bff741 | Can we make a skill like this? | Complementary |
 
 ## Night Peek 2026-09-21
 | message_id | subject | score |
@@ -268,7 +275,7 @@ Usual sender: tysonlrigby@gmail.com
 | Claude ZIP skill runtime | Dilute | — | Dilute-hold |
 
 ## Chosen strategy
-QUIET. Keep quiet path. Daily Honey Peek files ids. Dawn newspapers topics. Sunday dives patterns only into existing vessels. Do not invent a theme. Hook 5 remains RETIRE. Zero new threads 2026-09-21 Night. One Dawn catch-up 2026-09-21.
+QUIET. Keep quiet path. Daily Honey Peek files ids. Dawn newspapers topics. Sunday dives patterns only into existing vessels. Do not invent a theme. Hook 5 remains RETIRE. One new thread 2026-09-22 Night (skill idea, Complementary). One Dawn catch-up 2026-09-21.
 
 ## Seed for Weekly Spine
-UptakeEmailX=Y. UptakeEmailPeek=Y. WeekRollup=QUIET. DailyEmailPattern=helpful-context + Grokbot + X-reviews (7d quiet recurrence). EcosystemDive=none. FiveLever=SKIP. Fork: keep quiet path // invent theme from Grokbot or IG posts.
+UptakeEmailX=Y. UptakeEmailPeek=Y. WeekRollup=QUIET. DailyEmailPattern=helpful-context + Grokbot + X-reviews + skill-idea (quiet recurrence). EcosystemDive=none. FiveLever=SKIP. Fork: keep quiet path // invent theme from Grokbot or IG posts.
