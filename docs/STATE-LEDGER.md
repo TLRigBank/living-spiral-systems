@@ -14,6 +14,17 @@ Daily email: Night Peek files Exploring; Dawn summarizes; Weekly dives patterns.
 
 ---
 
+GATE: JOB=DAWN STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
+## 2026-09-24 | Dawn Desk
+Title: Hook 5 remains retired — no pack
+Verdict: QUIET
+Excerpt: NONE
+Seed: Hold for real signal only; overnight-agents open but no invent
+EmailSummary: helpful context; X reviews
+EmailRecs: hold X-reviews Dilute; file-for-Sunday helpful-context threads; existing-vessel-note knowledge-honeycomb
+Write: SHA (this commit)
+Uptake: used 2026-09-23 Night Sense QUIET? Y — silence path continues, no new seed
+
 GATE: JOB=NIGHT STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
 ## 2026-09-23 | Night Sense | QUIET
 Title: Hook 5 remains retired — no pack
