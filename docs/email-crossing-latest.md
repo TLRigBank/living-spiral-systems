@@ -2,13 +2,16 @@
 
 **Status:** Exploring only. Not current truth. Ledger is current.
 **Job:** Night Honey Peek (daily) → Dawn newspaper → Weekly Email Crossing (Sun 08:00) → Weekly Spine 09:00
-**Updated:** 2026-09-23 Night Peek
+**Updated:** 2026-09-24 Night Peek
 
 ## Window
 Capture inbox: tlrigbank@gmail.com  
 Usual sender: tysonlrigby@gmail.com
 
 ## Harvested message_ids (do not reprocess)
+### 2026-09-24 Night Peek
+- 1a0d4700666a3f16
+- 1a0d42a054040f43
 ### 2026-09-23 Night Peek
 - 1a0cfb510327a008
 - 1a0cfb4326edd058
@@ -128,6 +131,12 @@ Usual sender: tysonlrigby@gmail.com
 - 19fe1f0afa3b7357
 - 19f7b750317f4f12
 - 19f775edcd8f76b5
+
+## Night Peek 2026-09-24
+| message_id | subject | score |
+|---|---|---|
+| 1a0d4700666a3f16 | Grokbot context | Dilute |
+| 1a0d42a054040f43 | Grok bot context | Dilute |
 
 ## Night Peek 2026-09-23
 | message_id | subject | score |
@@ -286,7 +295,7 @@ Usual sender: tysonlrigby@gmail.com
 | Claude ZIP skill runtime | Dilute | — | Dilute-hold |
 
 ## Chosen strategy
-QUIET. Keep quiet path. Daily Honey Peek files ids. Dawn newspapers topics. Sunday dives patterns only into existing vessels. Do not invent a theme. Hook 5 remains RETIRE. Three new threads 2026-09-23 Night (helpful context / X reviews, Exploring). Prior skill idea Complementary.
+QUIET. Keep quiet path. Daily Honey Peek files ids. Dawn newspapers topics. Sunday dives patterns only into existing vessels. Do not invent a theme. Hook 5 remains RETIRE. Two new threads 2026-09-24 Night (Grokbot context, Dilute). Prior helpful-context / X reviews Exploring.
 
 ## Seed for Weekly Spine
 UptakeEmailX=Y. UptakeEmailPeek=Y. WeekRollup=QUIET. DailyEmailPattern=helpful-context + Grokbot + X-reviews + skill-idea (quiet recurrence). EcosystemDive=none. FiveLever=SKIP. Fork: keep quiet path // invent theme from Grokbot or IG posts.
