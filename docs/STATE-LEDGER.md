@@ -14,6 +14,23 @@ Daily email: Night Peek files Exploring; Dawn summarizes; Weekly dives patterns.
 
 ---
 
+GATE: JOB=NIGHT STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
+## 2026-09-26 | Night Sense | QUIET
+Title: Hook 5 remains retired — no pack
+Verdict: QUIET — PriorDawn QUIET + same-title streak; no real signal; silence path taken
+Clone: N
+PriorDawn: QUIET
+SameTitleStreak: 17
+Write: SHA PLACEHOLDER
+ThemeNew: N
+EmailPeek: N
+EmailNew: 1
+EmailTopics: helpful context
+EmailComplementary: 0
+Excerpt: NONE
+Seed: Hold for real signal only; overnight-agents open but no invent
+Uptake: used 2026-09-26 Dawn Desk QUIET? Y — silence path continues, no new seed
+
 GATE: JOB=DAWN STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
 ## 2026-09-26 | Dawn Desk
 Title: Hook 5 remains retired — no pack
@@ -463,10 +480,3 @@ Verdict: QUIET
 ## 2026-09-07 | Night Sense | QUIET
 Title: Hook 5 remains retired — no pack
 Verdict: QUIET
-
-## 2026-09-07 | Weekly Email Crossing | Shell
-Title: Sunday 08:00 harvest feeds Weekly Spine — not a sixth species
-Verdict: SHIP
-Excerpt: Email Crossing is Honey Exploring input.
-
-Older rows through 2026-08-26 remain in git history prior to this patch.
