@@ -22,7 +22,7 @@ Excerpt: NONE
 Seed: Hold for real signal only; overnight-agents open but no invent
 EmailSummary: helpful context
 EmailRecs: hold Grokbot Dilute; file-for-Sunday helpful-context threads; existing-vessel-note knowledge-honeycomb
-Write: SHA (this commit)
+Write: SHA 9f9fdda3
 Uptake: used 2026-09-27 Night Sense QUIET? Y — silence path continues, no new seed
 
 GATE: JOB=NIGHT STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
