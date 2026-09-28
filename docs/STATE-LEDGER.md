@@ -21,7 +21,7 @@ Verdict: QUIET — PriorDawn QUIET + same-title streak; no real signal; silence 
 Clone: N
 PriorDawn: QUIET
 SameTitleStreak: 18
-Write: SHA pending
+Write: SHA 94004790
 ThemeNew: N
 EmailPeek: N
 EmailNew: 0
@@ -58,14 +58,3 @@ EmailComplementary: 0
 Excerpt: NONE
 Seed: Hold for real signal only; overnight-agents open but no invent
 Uptake: used 2026-09-26 Dawn Desk QUIET? Y — silence path continues, no new seed
-
-GATE: JOB=DAWN STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
-## 2026-09-26 | Dawn Desk
-Title: Hook 5 remains retired — no pack
-Verdict: QUIET
-Excerpt: NONE
-Seed: Hold for real signal only; overnight-agents open but no invent
-EmailSummary: helpful context
-EmailRecs: hold Grokbot Dilute; file-for-Sunday helpful-context threads; existing-vessel-note knowledge-honeycomb
-Write: SHA (this commit)
-Uptake: used 2026-09-25 Night Sense QUIET? Y — silence path continues, no new seed
