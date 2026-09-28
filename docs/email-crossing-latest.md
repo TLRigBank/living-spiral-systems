@@ -2,13 +2,15 @@
 
 **Status:** Exploring only. Not current truth. Ledger is current.
 **Job:** Night Honey Peek (daily) → Dawn newspaper → Weekly Email Crossing (Sun 08:00) → Weekly Spine 09:00
-**Updated:** 2026-09-26 Night Peek
+**Updated:** 2026-09-27 Night Peek
 
 ## Window
 Capture inbox: tlrigbank@gmail.com  
 Usual sender: tysonlrigby@gmail.com
 
 ## Harvested message_ids (do not reprocess)
+### 2026-09-27 Night Peek
+(none — all from:tysonlrigby@gmail.com threads in 2d window already listed below)
 ### 2026-09-26 Night Peek
 - 1a0e005dc4c6cc7a
 ### 2026-09-25 Night Peek
@@ -136,6 +138,11 @@ Usual sender: tysonlrigby@gmail.com
 - 19f7b750317f4f12
 - 19f775edcd8f76b5
 
+## Night Peek 2026-09-27
+| message_id | subject | score |
+|---|---|---|
+| (none new) | — | QUIET |
+
 ## Night Peek 2026-09-26
 | message_id | subject | score |
 |---|---|---|
@@ -260,7 +267,7 @@ Usual sender: tysonlrigby@gmail.com
 
 ## Coordinator peek 2026-09-20 Weekly (QUIET)
 | Signal | Score | Vessel | Stamp |
-|---|---|---|
+|---|---|---|---|
 | (none new) | — | — | QUIET |
 | Prior helpful-context cluster | Already-present | knowledge-honeycomb | Exploring (prior) |
 | Prior Grokbot / Grok bot cluster | Dilute | — | Dilute-hold |
@@ -271,7 +278,7 @@ Usual sender: tysonlrigby@gmail.com
 
 ## Coordinator peek 2026-09-13 Weekly (QUIET)
 | Signal | Score | Vessel | Stamp |
-|---|---|---|
+|---|---|---|---|
 | (none new) | — | — | QUIET |
 | Prior time-aware knowledge graph (LinkedIn) | Sibling-fuel | knowledge-honeycomb / Hermes Interface | Exploring |
 | X / IG growth & income clusters | Dilute | — | Dilute-hold |
@@ -279,7 +286,7 @@ Usual sender: tysonlrigby@gmail.com
 
 ## Signals 2026-09-12 / 09-11 (retained)
 | Signal | Score | Vessel | Stamp |
-|---|---|---|
+|---|---|---|---|
 | Time-aware knowledge graph for agents (LinkedIn) | Sibling-fuel | knowledge-honeycomb / Hermes Interface | Exploring |
 | X posts cluster (4 links, morning) | Dilute as architecture | — | Dilute-hold |
 | Faceless-page profit formats | Dilute | paused factories stay paused | Dilute-hold |
@@ -299,7 +306,7 @@ Usual sender: tysonlrigby@gmail.com
 
 ## Signals from 2026-09-07 seed (still Exploring unless sealed elsewhere)
 | Signal | Score | Vessel | Stamp |
-|---|---|---|
+|---|---|---|---|
 | Agent Skills as install-once encoding | Complementary (idea only) | knowledge-honeycomb | Exploring |
 | Anti-slop + personal voice + ADHD brevity | Complementary | content-honeycomb / personal-linkedin-voice | Exploring |
 | One job per post; flop ≠ more volume | Complementary | Night/Dawn closer + content-honeycomb | Exploring |
@@ -309,7 +316,7 @@ Usual sender: tysonlrigby@gmail.com
 | Claude ZIP skill runtime | Dilute | — | Dilute-hold |
 
 ## Chosen strategy
-QUIET. Keep quiet path. Daily Honey Peek files ids. Dawn newspapers topics. Sunday dives patterns only into existing vessels. Do not invent a theme. Hook 5 remains RETIRE. One new thread 2026-09-26 Night (helpful context, Exploring). Prior helpful-context / X reviews Exploring.
+QUIET. Keep quiet path. Daily Honey Peek files ids. Dawn newspapers topics. Sunday dives patterns only into existing vessels. Do not invent a theme. Hook 5 remains RETIRE. Zero new threads 2026-09-27 Night. Prior helpful-context Exploring.
 
 ## Seed for Weekly Spine
 UptakeEmailX=Y. UptakeEmailPeek=Y. WeekRollup=QUIET. DailyEmailPattern=helpful-context + Grokbot + X-reviews + skill-idea (quiet recurrence). EcosystemDive=none. FiveLever=SKIP. Fork: keep quiet path // invent theme from Grokbot or IG posts.
