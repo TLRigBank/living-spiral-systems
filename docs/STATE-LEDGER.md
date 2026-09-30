@@ -14,6 +14,24 @@ Daily email: Night Peek files Exploring; Dawn summarizes; Weekly dives patterns.
 
 ---
 
+GATE: JOB=NIGHT STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
+DATE | JOB | title | verdict
+Clone: N
+PriorDawn: QUIET
+SameTitleStreak: 20
+Write: SHA PENDING
+ThemeNew: N
+EmailPeek: N
+EmailNew: 0
+EmailTopics: NONE
+EmailComplementary: 0
+Excerpt: NONE
+Seed: Hold for real signal only; overnight-agents open but no invent
+Uptake: used prior State? Y + 2026-09-29 Dawn QUIET; silence path continues
+## 2026-09-29 | Night Sense | QUIET
+Title: Hook 5 remains retired — no pack
+Verdict: QUIET — PriorDawn QUIET + same-title streak; no real signal; silence path taken
+
 GATE: JOB=DAWN STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
 ## 2026-09-29 | Dawn Desk
 Title: Hook 5 remains retired — no pack
