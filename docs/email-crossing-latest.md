@@ -2,13 +2,15 @@
 
 **Status:** Exploring only. Not current truth. Ledger is current.
 **Job:** Night Honey Peek (daily) → Dawn newspaper → Weekly Email Crossing (Sun 08:00) → Weekly Spine 09:00
-**Updated:** 2026-09-29 Dawn Catch-up
+**Updated:** 2026-09-29 Night Peek
 
 ## Window
 Capture inbox: tlrigbank@gmail.com  
 Usual sender: tysonlrigby@gmail.com
 
 ## Harvested message_ids (do not reprocess)
+### 2026-09-29 Night Peek
+(none — all from:tysonlrigby@gmail.com threads in 2d window already listed below)
 ### 2026-09-29 Dawn Catch-up
 - 1a0ed7d7c311ce74
 ### 2026-09-28 Night Peek
@@ -71,6 +73,7 @@ Usual sender: tysonlrigby@gmail.com
 ### 2026-09-15 Dawn Catch-up
 - 1a0a53ccbdbcae02
 - 1a0a53bea1339771
+- 1a0a53ccbdbcae02
 - 1a0a53908951f922
 ### 2026-09-14 Night Peek
 - 1a0a34ebfe1ae635
@@ -144,6 +147,11 @@ Usual sender: tysonlrigby@gmail.com
 - 19f7b750317f4f12
 - 19f775edcd8f76b5
 
+## Night Peek 2026-09-29
+| message_id | subject | score |
+|---|---|---|
+| (none new) | — | QUIET |
+
 ## Dawn Catch-up 2026-09-29
 | message_id | subject | score |
 |---|---|---|
@@ -192,152 +200,8 @@ Usual sender: tysonlrigby@gmail.com
 |---|---|---|
 | 1a0cb568f7bff741 | Can we make a skill like this? | Complementary |
 
-## Night Peek 2026-09-21
-| message_id | subject | score |
-|---|---|---|
-| (none new) | — | QUIET |
-
-## Dawn Catch-up 2026-09-21
-| message_id | subject | score |
-|---|---|---|
-| 1a0c411502eec53e | Review for helpful context | Exploring |
-
-## Night Peek 2026-09-20
-| message_id | subject | score |
-|---|---|---|
-| (none new) | — | QUIET |
-
-## Night Peek 2026-09-19
-| message_id | subject | score |
-|---|---|---|
-| 1a0ba0f6d5803a9f | Review for helpful context | Exploring |
-| 1a0ba0e585793db3 | Grokbot context | Exploring |
-| 1a0ba0cc785e1f66 | Review for helpful context | Exploring |
-| 1a0b51dd900d506e | Grok bot context | Exploring |
-
-## Dawn Catch-up 2026-09-19
-| message_id | subject | score |
-|---|---|---|
-| 1a0ba11b516a891f | Hermes and grok bot context | Exploring |
-| 1a0ba112b6e9bcd9 | Grok bot content | Exploring |
-| 1a0ba1099d72502d | Review for helpful context | Exploring |
-
-## Night Peek 2026-09-18
-| message_id | subject | score |
-|---|---|---|
-| 1a0b666056a90eb2 | Review for helpful context | Dilute |
-| 1a0b6623e4a45de8 | Review for ways to improve our web presence | Dilute |
-| 1a0b52fdafcb1f16 | Review for helpful context | Exploring |
-| 1a0b521a49f2e72b | Review for helpful context | Exploring |
-| 1a0b51e84b81584a | Review for helpful context | Exploring |
-
-## Dawn Catch-up 2026-09-18
-| message_id | subject | score |
-|---|---|---|
-| 1a0b4cf2eec831c3 | Grokbot context | Exploring |
-| 1a0b4cd33d4b85b4 | Review for helpful context | Exploring |
-
-## Dawn Catch-up 2026-09-17
-| message_id | subject | score |
-|---|---|---|
-| 1a0afd2f80700857 | Grok bot context | Exploring |
-| 1a0afd263befbb2e | Grok bot context | Exploring |
-
-## Night Peek 2026-09-16
-| message_id | subject | score |
-|---|---|---|
-| 1a0ab873a7ad3024 | Review for helpful context | Exploring |
-| 1a0ab0dca1939faa | Review for helpful context | Exploring |
-| 1a0ab0d19f56da44 | Review for helpful context | Exploring |
-| 1a0ab0c9f682eb05 | Review for helpful context | Exploring |
-
-## Night Peek 2026-09-15
-| message_id | subject | score |
-|---|---|---|
-| 1a0a5ed2578bb8f5 | Any good context in here we can apply? | Exploring |
-| 1a0a5ec8972d64a3 | Review for helpful context | Exploring |
-| 1a0a5d41524a634e | Review for helpful context | Exploring |
-
-## Dawn Catch-up 2026-09-15
-| message_id | subject | score |
-|---|---|---|
-| 1a0a53ccbdbcae02 | Review for helpful context | Exploring |
-| 1a0a53bea1339771 | Can we build a successful trading bot? | Dilute |
-| 1a0a53908951f922 | Review for usefulness | Exploring |
-
-## Night Peek 2026-09-14
-| message_id | subject | score |
-|---|---|---|
-| 1a0a34ebfe1ae635 | Search for helpful job search context | Dilute |
-| 1a0a34d3440251d6 | Bot context | Dilute |
-| 1a0a34b2892a44b7 | Can this help our job search? | Dilute |
-| 1a0a34a922a7ca17 | Review for usefulness | Dilute |
-| 1a0a345af5d38aed | Review for usefulness | Dilute |
-
-## Dawn Catch-up 2026-09-14
-| message_id | subject | score |
-|---|---|---|
-| 1a0a0202966962ce | How can we apply this to grok | Exploring |
-| 1a0a01f779962f99 | Review for helpful context | Exploring |
-| 1a0a01ec8a607a16 | Review for helpful context | Exploring |
-
-## Night Peek 2026-09-13
-| message_id | subject | score |
-|---|---|---|
-| 1a09cf813c2eeee7 | Review for revenue generating potential (IG) | Dilute |
-
-## Coordinator peek 2026-09-20 Weekly (QUIET)
-| Signal | Score | Vessel | Stamp |
-|---|---|---|---|
-| (none new) | — | — | QUIET |
-| Prior helpful-context cluster | Already-present | knowledge-honeycomb | Exploring (prior) |
-| Prior Grokbot / Grok bot cluster | Dilute | — | Dilute-hold |
-| Prior X context reviews | Already-present | knowledge-honeycomb | Exploring (prior) |
-| Prior Hermes / grok bot context | Already-present | agent-setup-honeycomb / Hermes Interface | Exploring (prior) |
-| Hook 5 / overnight-agents | Already-present | RETIRE sealed | sealed |
-| Five-species / Spine immune | Already-present | living-spiral-spine-shell + honey-crossing | sealed |
-
-## Coordinator peek 2026-09-13 Weekly (QUIET)
-| Signal | Score | Vessel | Stamp |
-|---|---|---|---|
-| (none new) | — | — | QUIET |
-| Prior time-aware knowledge graph (LinkedIn) | Sibling-fuel | knowledge-honeycomb / Hermes Interface | Exploring |
-| X / IG growth & income clusters | Dilute | — | Dilute-hold |
-| Halt-Gate / real-signal / SHA rules | Already-present | docs/halt-gate.md + living-spiral-spine-shell | sealed |
-
-## Signals 2026-09-12 / 09-11 (retained)
-| Signal | Score | Vessel | Stamp |
-|---|---|---|---|
-| Time-aware knowledge graph for agents (LinkedIn) | Sibling-fuel | knowledge-honeycomb / Hermes Interface | Exploring |
-| X posts cluster (4 links, morning) | Dilute as architecture | — | Dilute-hold |
-| Faceless-page profit formats | Dilute | paused factories stay paused | Dilute-hold |
-| Digital-product / income Instagram | Dilute as Spine; cash need is real | Opportunity Scan + First Root + RAF diagnostic | Dilute-hold as tactic |
-| IG growth / reel templates | Dilute as architecture | content-honeycomb only if voice-fit | Dilute-hold |
-| Evals vs loops; Halt-Gate | Already-present | docs/halt-gate.md + living-spiral-spine-shell | sealed this week |
-| Write must be real SHA | Complementary | halt-gate + Night/Dawn Write line | Exploring → sealed 11 Sep |
-| Real-signal rule (named + not RETIRE + existing vessel) | Complementary | halt-gate + Night Track A | Exploring → sealed 11 Sep |
-| Mid-week Exploring file, no sixth job | Complementary | this file | sealed 11 Sep |
-| Counterfactual fork ledger | Complementary | Weekly Fork field only | Exploring |
-| Seven-agent content desk | Dilute | paused factories stay paused | Dilute-hold |
-| Grok Bot phone / Bland | Dilute as Spine | Voice connector optional Shell | Dilute-hold |
-| IT³ / music-of-spheres cosmology | Dilute as architecture | — | Dilute-hold |
-| Anthropic official loop types | Sibling-fuel | halt-gate stop conditions | Exploring |
-| Agency Accelerants Notion KB | Sibling-fuel | harvest later, no new skill | Exploring |
-| Instagram / LinkedIn growth posts | Dilute as architecture | content-honeycomb only if voice-fit | Dilute-hold |
-
-## Signals from 2026-09-07 seed (still Exploring unless sealed elsewhere)
-| Signal | Score | Vessel | Stamp |
-|---|---|---|---|
-| Agent Skills as install-once encoding | Complementary (idea only) | knowledge-honeycomb | Exploring |
-| Anti-slop + personal voice + ADHD brevity | Complementary | content-honeycomb / personal-linkedin-voice | Exploring |
-| One job per post; flop ≠ more volume | Complementary | Night/Dawn closer + content-honeycomb | Exploring |
-| Agentic UX visibility / approvals | Complementary | Hermes Interface sibling | Exploring |
-| Hermes computer-use question | Complementary | agent-setup-honeycomb | Exploring |
-| AWS / Bedrock / vector stack | Dilute as architecture | — | Dilute-hold |
-| Claude ZIP skill runtime | Dilute | — | Dilute-hold |
-
 ## Chosen strategy
-QUIET. Keep quiet path. Daily Honey Peek files ids. Dawn newspapers topics. Sunday dives patterns only into existing vessels. Do not invent a theme. Hook 5 remains RETIRE. Zero new threads 2026-09-28 Night. Prior helpful-context Exploring. Dawn catch-up 1a0ed7d7c311ce74 Exploring.
+QUIET. Keep quiet path. Daily Honey Peek files ids. Dawn newspapers topics. Sunday dives patterns only into existing vessels. Do not invent a theme. Hook 5 remains RETIRE. Zero new threads 2026-09-29 Night. Prior helpful-context Exploring.
 
 ## Seed for Weekly Spine
 UptakeEmailX=Y. UptakeEmailPeek=Y. WeekRollup=QUIET. DailyEmailPattern=helpful-context + Grokbot + X-reviews + skill-idea (quiet recurrence). EcosystemDive=none. FiveLever=SKIP. Fork: keep quiet path // invent theme from Grokbot or IG posts.
