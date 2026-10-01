@@ -12,6 +12,24 @@ Halt-Gate: docs/halt-gate.md — GATE line required on Night/Dawn/Weekly/EmailX
 Real signal: named in last 7 days or email-crossing-latest.md + not RETIRE + existing vessel.
 Daily email: Night Peek files Exploring; Dawn summarizes; Weekly dives patterns. No sixth job.
 
+GATE: JOB=MONTHLY STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
+DATE | JOB | title | verdict
+2026-10-01 | MONTHLY | Silence holds — weekly write hole, no factory revive | QUIET
+Excerpt: Night/Dawn uptake Y and SHA-true. Weekly Spine wrote no spine row on Sep 6/13/20/27. Hook 5 stays retired.
+Seed: Apply AUTO title + Sunday QUIET-write patches only. STEER Weekly pause waits; default DENY.
+Write: SHA PENDING
+Uptake: used prior State? Y + 2026-10-01 Dawn QUIET and 2026-09-30 Night QUIET; no Weekly spine row to uptake
+## 2026-10-01 | Monthly Audit
+Title: Silence holds — weekly write hole, no factory revive
+Verdict: QUIET
+Excerpt: Night/Dawn uptake Y and SHA-true. Weekly Spine wrote no spine row on Sep 6/13/20/27. Hook 5 stays retired.
+Seed: Apply AUTO title + Sunday QUIET-write patches only. STEER Weekly pause waits; default DENY.
+KPI: StateSignal 6; EvolutionUptake 6; DecisionLoad down; CrossCycle 7; RegenerativeReturn 6
+STEER: Weekly Spine pause default DENY; paused factories stay paused
+Write: SHA PENDING
+Uptake: used 2026-10-01 Dawn QUIET + 2026-09-30 Night QUIET? Y — no Weekly spine row existed to uptake
+
+
 ---
 
 GATE: JOB=DAWN STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
