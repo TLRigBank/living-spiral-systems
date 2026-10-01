@@ -17,7 +17,7 @@ DATE | JOB | title | verdict
 2026-10-01 | MONTHLY | Silence holds — weekly write hole, no factory revive | QUIET
 Excerpt: Night/Dawn uptake Y and SHA-true. Weekly Spine wrote no spine row on Sep 6/13/20/27. Hook 5 stays retired.
 Seed: Apply AUTO title + Sunday QUIET-write patches only. STEER Weekly pause waits; default DENY.
-Write: SHA PENDING
+Write: SHA 3ad783f5
 Uptake: used prior State? Y + 2026-10-01 Dawn QUIET and 2026-09-30 Night QUIET; no Weekly spine row to uptake
 ## 2026-10-01 | Monthly Audit
 Title: Silence holds — weekly write hole, no factory revive
@@ -26,7 +26,7 @@ Excerpt: Night/Dawn uptake Y and SHA-true. Weekly Spine wrote no spine row on Se
 Seed: Apply AUTO title + Sunday QUIET-write patches only. STEER Weekly pause waits; default DENY.
 KPI: StateSignal 6; EvolutionUptake 6; DecisionLoad down; CrossCycle 7; RegenerativeReturn 6
 STEER: Weekly Spine pause default DENY; paused factories stay paused
-Write: SHA PENDING
+Write: SHA 3ad783f5
 Uptake: used 2026-10-01 Dawn QUIET + 2026-09-30 Night QUIET? Y — no Weekly spine row existed to uptake
 
 
