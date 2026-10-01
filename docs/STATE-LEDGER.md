@@ -21,7 +21,7 @@ EmailSummary: NONE
 EmailRecs: hold Dilute Grokbot; file-for-Sunday helpful-context; existing-vessel-note knowledge-honeycomb
 Excerpt: NONE
 Seed: Hold for real signal only; overnight-agents open but no invent
-Write: SHA PENDING
+Write: SHA b91e21c2
 Uptake: used prior State? Y + 2026-09-30 Night Sense QUIET; silence path continues
 ## 2026-10-01 | Dawn Desk
 Title: Hook 5 remains retired — no pack
@@ -30,7 +30,7 @@ Excerpt: NONE
 Seed: Hold for real signal only; overnight-agents open but no invent
 EmailSummary: NONE
 EmailRecs: hold Dilute Grokbot; file-for-Sunday helpful-context; existing-vessel-note knowledge-honeycomb
-Write: SHA PENDING
+Write: SHA b91e21c2
 Uptake: used 2026-09-30 Night Sense QUIET? Y — silence path continues, no new seed
 
 GATE: JOB=NIGHT STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
