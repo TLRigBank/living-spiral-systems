@@ -38,7 +38,7 @@ DATE | JOB | title | verdict
 Clone: N
 PriorDawn: QUIET
 SameTitleStreak: 9
-Write: SHA PENDING
+Write: SHA 8f584e3f
 ThemeNew: N
 EmailPeek: N
 EmailNew: 0
