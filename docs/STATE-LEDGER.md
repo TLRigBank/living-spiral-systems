@@ -32,6 +32,25 @@ Uptake: used 2026-10-01 Dawn QUIET + 2026-09-30 Night QUIET? Y — no Weekly spi
 
 ---
 
+GATE: JOB=NIGHT STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
+DATE | JOB | title | verdict
+2026-10-01 | NIGHT | Hook 5 remains retired — no pack | QUIET
+Clone: N
+PriorDawn: QUIET
+SameTitleStreak: 9
+Write: SHA PENDING
+ThemeNew: N
+EmailPeek: N
+EmailNew: 0
+EmailTopics: NONE
+EmailComplementary: 0
+Excerpt: NONE
+Seed: Hold for real signal only; overnight-agents open but no invent
+Uptake: used prior State? Y + 2026-10-01 Dawn QUIET and Monthly QUIET; silence path continues
+## 2026-10-01 | Night Sense | QUIET
+Title: Hook 5 remains retired — no pack
+Verdict: QUIET — PriorDawn QUIET + same-title streak; no real signal; silence path taken
+
 GATE: JOB=DAWN STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
 DATE | JOB | title | verdict
 2026-10-01 | DAWN | Hook 5 remains retired — no pack | QUIET
