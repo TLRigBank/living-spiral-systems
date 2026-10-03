@@ -39,7 +39,7 @@ EmailSummary: AI-agency LinkedIn, founder-agents LinkedIn, job-alerts
 EmailRecs: hold Dilute LinkedIn reviews; file-for-Sunday job-alerts; existing-vessel-note email-crossing Dilute-hold
 Excerpt: NONE
 Seed: Hold for real signal only; do not reopen Hook 5
-Write: SHA 8b3d8fda
+Write: SHA dee2e6bf
 Uptake: used prior State? Y + 2026-10-02 Night Sense QUIET; score only, no rebuild
 ## 2026-10-03 | Dawn Desk
 Title: Hook 5 remains retired — no pack
@@ -48,7 +48,7 @@ Excerpt: NONE
 Seed: Hold for real signal only; do not reopen Hook 5
 EmailSummary: AI-agency LinkedIn, founder-agents LinkedIn, job-alerts
 EmailRecs: hold Dilute LinkedIn reviews; file-for-Sunday job-alerts; existing-vessel-note email-crossing Dilute-hold
-Write: SHA 8b3d8fda
+Write: SHA dee2e6bf
 Uptake: used 2026-10-02 Night Sense QUIET? Y — score only, no rebuild, no new seed
 
 
