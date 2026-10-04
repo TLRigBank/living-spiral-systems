@@ -12,6 +12,33 @@ Halt-Gate: docs/halt-gate.md — GATE line required on Night/Dawn/Weekly/EmailX
 Real signal: named in last 7 days or email-crossing-latest.md + not RETIRE + existing vessel.
 Daily email: Night Peek files Exploring; Dawn summarizes; Weekly dives patterns. No sixth job.
 
+GATE: JOB=WEEKLY STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
+DATE | JOB | title | verdict
+2026-10-04 | WEEKLY | Silence holds — no new seed | QUIET
+UptakeEmailX: Y
+UptakeEmailPeek: Y
+WeekRollup: QUIET
+FiveLever: SKIP
+AutoDiff: NONE
+ConstraintSealed: N
+Fork: NONE
+DailyEmailPattern: helpful-context Already-present; LinkedIn reviews and job-alerts Dilute; Grokbot Dilute
+EcosystemDive: Dilute-hold stays in email-crossing; job-alerts stay Thursday Opportunity; no honeycomb seal
+Excerpt: NONE
+Seed: Hold the spine; do not reopen Hook 5; do not stamp Returned from email links
+Write: SHA PENDING
+Uptake: used prior State? Y + 2026-10-04 EMAILX QUIET, 2026-10-04 Dawn QUIET, 2026-10-01 Monthly QUIET
+## 2026-10-04 | Weekly Spine
+Title: Silence holds — no new seed
+Verdict: QUIET
+Excerpt: NONE
+Seed: Hold the spine; do not reopen Hook 5; do not stamp Returned from email links
+Write: SHA PENDING
+Uptake: used 2026-10-04 Email Crossing QUIET and Dawn QUIET? Y — pattern dive only, FiveLever skipped
+
+
+---
+
 GATE: JOB=MONTHLY STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
 DATE | JOB | title | verdict
 2026-10-01 | MONTHLY | Silence holds — weekly write hole, no factory revive | QUIET
