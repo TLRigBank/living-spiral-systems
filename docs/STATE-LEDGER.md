@@ -37,7 +37,7 @@ DATE | JOB | title | verdict
 2026-10-04 | EMAILX | Quiet window — already harvested, no new crossing | QUIET
 Excerpt: NONE
 Seed: Weekly Spine uptake only; do not reopen Hook 5; do not stamp Returned
-Write: SHA 714f1f86
+Write: SHA 86128f02
 Uptake: used prior State? Y + 2026-10-04 Dawn QUIET, 2026-10-03 Night QUIET, 2026-10-01 Monthly QUIET
 ## 2026-10-04 | Weekly Email Crossing
 Title: Quiet window — already harvested, no new crossing
@@ -45,6 +45,7 @@ Verdict: QUIET
 Stamp: Exploring not used; no new ids; Dilute-hold on prior peeks
 Pattern: helpful-context Already-present; LinkedIn reviews Dilute; job-alerts Dilute; Grokbot Dilute
 Seed: Weekly Spine names UptakeEmailX=Y and WeekRollup=QUIET; FiveLever=SKIP
+Write: SHA 86128f02
 
 GATE: JOB=DAWN STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
 DATE | JOB | title | verdict
