@@ -2,7 +2,7 @@
 
 **Status:** Exploring only. Not current truth. Ledger is current.
 **Job:** Night Honey Peek (daily) → Dawn newspaper → Weekly Email Crossing (Sun 08:00) → Weekly Spine 09:00
-**Updated:** 2026-10-04 Weekly Email Crossing
+**Updated:** 2026-10-04 Night Peek
 **Track:** QUIET
 **Stamp:** no Returned. No new Exploring ids this window.
 
@@ -33,6 +33,8 @@ QUIET. Zero new threads. Prior peeks stay Dilute or Already-present. helpful-con
 UptakeEmailX=Y. UptakeEmailPeek=Y. WeekRollup=QUIET. DailyEmailPattern=helpful-context Already-present; Oct 2 LinkedIn reviews and job-alerts Dilute; Grokbot Dilute. EcosystemDive=none. FiveLever=SKIP. Fork: NONE.
 
 ## Harvested message_ids (do not reprocess)
+### 2026-10-04 Night Peek
+(none — gmail_search from:tysonlrigby@gmail.com newer_than:2d returned no threads)
 ### 2026-10-04 Weekly
 (none — 8d window already listed below)
 ### 2026-10-03 Night Peek
@@ -183,6 +185,11 @@ UptakeEmailX=Y. UptakeEmailPeek=Y. WeekRollup=QUIET. DailyEmailPattern=helpful-c
 - 19fe1f0afa3b7357
 - 19f7b750317f4f12
 - 19f775edcd8f76b5
+
+## Night Peek 2026-10-04
+| message_id | subject | score |
+|---|---|---|
+| (none new) | 2d window empty; prior ids already filed | QUIET |
 
 ## Night Peek 2026-10-03
 | message_id | subject | score |
