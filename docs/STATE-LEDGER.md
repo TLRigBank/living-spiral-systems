@@ -39,6 +39,26 @@ Uptake: used 2026-10-04 Email Crossing QUIET and Dawn QUIET? Y — pattern dive 
 
 ---
 
+GATE: JOB=NIGHT STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
+DATE | JOB | title | verdict
+2026-10-04 | NIGHT | Hook 5 remains retired — no pack | QUIET
+Clone: N
+PriorDawn: QUIET
+SameTitleStreak: 9
+Write: SHA FILL0000
+ThemeNew: N
+EmailPeek: N
+EmailNew: 0
+EmailTopics: NONE
+EmailComplementary: 0
+Excerpt: NONE
+Seed: Hold for real signal only; do not reopen Hook 5; no new mail
+Uptake: used prior State? Y + 2026-10-04 Dawn QUIET and Weekly QUIET; silence path continues
+## 2026-10-04 | Night Sense | QUIET
+Title: Hook 5 remains retired — no pack
+Verdict: QUIET — PriorDawn QUIET + same-title streak; peek filed no new ids; no real signal
+
+
 GATE: JOB=MONTHLY STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
 DATE | JOB | title | verdict
 2026-10-01 | MONTHLY | Silence holds — weekly write hole, no factory revive | QUIET
