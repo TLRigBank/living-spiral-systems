@@ -46,7 +46,7 @@ EmailSummary: NONE
 EmailRecs: NONE
 Excerpt: NONE
 Seed: Hold for real signal only; do not reopen Hook 5
-Write: SHA pending-dawn-2026-10-05
+Write: SHA 2b4c2e2c
 Uptake: used prior State? Y + 2026-10-04 Night Sense QUIET; score only, no rebuild
 ## 2026-10-05 | Dawn Desk
 Title: Hook 5 remains retired — no pack
@@ -55,7 +55,7 @@ Excerpt: NONE
 Seed: Hold for real signal only; do not reopen Hook 5
 EmailSummary: NONE
 EmailRecs: NONE
-Write: SHA pending-dawn-2026-10-05
+Write: SHA 2b4c2e2c
 Uptake: used 2026-10-04 Night Sense QUIET? Y — score only, no rebuild, no new seed
 
 
