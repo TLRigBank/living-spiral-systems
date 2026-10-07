@@ -2,14 +2,14 @@
 
 **Status:** Exploring only. Not current truth. Ledger is current.
 **Job:** Night Honey Peek (daily) → Dawn newspaper → Weekly Email Crossing (Sun 08:00) → Weekly Spine 09:00
-**Updated:** 2026-10-05 Night Peek
+**Updated:** 2026-10-06 Night Peek
 **Track:** QUIET
 **Stamp:** no Returned. No new Exploring ids this window.
 
 ## Window
 Capture inbox: tlrigbank@gmail.com
 Usual sender: tysonlrigby@gmail.com
-Window searched: newer_than:2d (through 2026-10-05 Night)
+Window searched: newer_than:2d (through 2026-10-06 Night)
 Searches: from:tysonlrigby@gmail.com newer_than:2d (max 15)
 Result: 0 threads. 0 new.
 
@@ -27,12 +27,14 @@ Result: 0 threads. 0 new.
 | (none new) | 8d window already listed below | QUIET | — |
 
 ## Chosen strategy
-QUIET. Zero new threads on 2026-10-05. Prior peeks stay Dilute or Already-present. helpful-context recurrence is influencer-link Exploring, not a Returned seal. Hook 5 remains RETIRE. No patch. No sixth species.
+QUIET. Zero new threads on 2026-10-06. Prior peeks stay Dilute or Already-present. helpful-context recurrence is influencer-link Exploring, not a Returned seal. Hook 5 remains RETIRE. No patch. No sixth species.
 
 ## Seed for Weekly Spine
 UptakeEmailX=Y. UptakeEmailPeek=Y. WeekRollup=QUIET. DailyEmailPattern=helpful-context Already-present; Oct 2 LinkedIn reviews and job-alerts Dilute; Grokbot Dilute. EcosystemDive=none. FiveLever=SKIP. Fork: NONE.
 
 ## Harvested message_ids (do not reprocess)
+### 2026-10-06 Night Peek
+(none — gmail_search from:tysonlrigby@gmail.com newer_than:2d returned no threads)
 ### 2026-10-05 Night Peek
 (none — gmail_search from:tysonlrigby@gmail.com newer_than:2d returned no threads)
 ### 2026-10-04 Night Peek
@@ -187,6 +189,11 @@ UptakeEmailX=Y. UptakeEmailPeek=Y. WeekRollup=QUIET. DailyEmailPattern=helpful-c
 - 19fe1f0afa3b7357
 - 19f7b750317f4f12
 - 19f775edcd8f76b5
+
+## Night Peek 2026-10-06
+| message_id | subject | score |
+|---|---|---|
+| (none new) | 2d window empty; prior ids already filed | QUIET |
 
 ## Night Peek 2026-10-05
 | message_id | subject | score |
