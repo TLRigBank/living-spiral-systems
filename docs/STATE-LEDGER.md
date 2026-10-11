@@ -12,6 +12,21 @@ Halt-Gate: docs/halt-gate.md — GATE line required on Night/Dawn/Weekly/EmailX
 Real signal: named in last 7 days or email-crossing-latest.md + not RETIRE + existing vessel.
 Daily email: Night Peek files Exploring; Dawn summarizes; Weekly dives patterns. No sixth job.
 
+GATE: JOB=EMAILX STATUS=QUIET NEXT=SKIP SKIP=5LEVER,PACK,THEME,POST
+DATE | JOB | title | verdict
+2026-10-11 | EMAILX | Quiet window — already harvested, no new crossing | QUIET
+Excerpt: NONE
+Seed: Weekly Spine uptake only; do not reopen Hook 5; do not stamp Returned
+Write: SHA 41e89b7f
+Uptake: used prior State? Y + 2026-10-07 Dawn QUIET, 2026-10-06 Night QUIET, 2026-10-04 EMAILX QUIET
+## 2026-10-11 | Weekly Email Crossing
+Title: Quiet window — already harvested, no new crossing
+Verdict: QUIET
+Stamp: Exploring not used; no new ids; Dilute-hold on prior peeks
+Pattern: helpful-context Already-present; LinkedIn reviews Dilute; job-alerts Dilute; Grokbot Dilute
+Seed: Weekly Spine names UptakeEmailX=Y and WeekRollup=QUIET; FiveLever=SKIP
+Write: SHA 41e89b7f
+
 GATE: JOB=WEEKLY STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
 DATE | JOB | title | verdict
 2026-10-04 | WEEKLY | Silence holds — no new seed | QUIET
