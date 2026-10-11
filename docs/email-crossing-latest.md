@@ -2,15 +2,15 @@
 
 **Status:** Exploring only. Not current truth. Ledger is current.
 **Job:** Night Honey Peek (daily) → Dawn newspaper → Weekly Email Crossing (Sun 08:00) → Weekly Spine 09:00
-**Updated:** 2026-10-06 Night Peek
+**Updated:** 2026-10-11 Weekly Email Crossing
 **Track:** QUIET
 **Stamp:** no Returned. No new Exploring ids this window.
 
 ## Window
 Capture inbox: tlrigbank@gmail.com
 Usual sender: tysonlrigby@gmail.com
-Window searched: newer_than:2d (through 2026-10-06 Night)
-Searches: from:tysonlrigby@gmail.com newer_than:2d (max 15)
+Window searched: newer_than:8d (through 2026-10-11)
+Searches: from:tysonlrigby@gmail.com newer_than:8d (max 30); subject:(review OR helpful OR context OR skill OR github OR check OR useful) newer_than:8d (max 20)
 Result: 0 threads. 0 new.
 
 ## Daily peek pattern (feeds Weekly Spine; does not stamp Returned)
@@ -21,18 +21,20 @@ Result: 0 threads. 0 new.
 | job-alerts (Process Improvement, Indeed SVP) | Oct 2 Night; Oct 3 Dawn | Dilute | Thursday Opportunity hold; do not apply |
 | Grokbot | Dawn recs Sep 27–Oct 2 | Dilute | Dilute-hold |
 
-## Weekly harvest 2026-10-04
+## Weekly harvest 2026-10-11
 | message_id | subject | score | stamp |
 |---|---|---|---|
 | (none new) | 8d window already listed below | QUIET | — |
 
 ## Chosen strategy
-QUIET. Zero new threads on 2026-10-06. Prior peeks stay Dilute or Already-present. helpful-context recurrence is influencer-link Exploring, not a Returned seal. Hook 5 remains RETIRE. No patch. No sixth species.
+QUIET. Zero new threads on 2026-10-11. Prior peeks stay Dilute or Already-present. helpful-context recurrence is influencer-link Exploring, not a Returned seal. Hook 5 remains RETIRE. No patch. No sixth species.
 
 ## Seed for Weekly Spine
 UptakeEmailX=Y. UptakeEmailPeek=Y. WeekRollup=QUIET. DailyEmailPattern=helpful-context Already-present; Oct 2 LinkedIn reviews and job-alerts Dilute; Grokbot Dilute. EcosystemDive=none. FiveLever=SKIP. Fork: NONE.
 
 ## Harvested message_ids (do not reprocess)
+### 2026-10-11 Weekly
+(none — gmail_search returned no threads)
 ### 2026-10-06 Night Peek
 (none — gmail_search from:tysonlrigby@gmail.com newer_than:2d returned no threads)
 ### 2026-10-05 Night Peek
