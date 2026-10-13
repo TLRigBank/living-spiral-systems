@@ -3,6 +3,14 @@
 Writable from coordinator chat / human. Write must be SHA (>=7 hex) or FAIL. "(this commit)" is illegal.
 Path: docs/STATE-LEDGER.md
 
+## 2026-10-13 | Honey protocol update
+Title: Returned seals from Grok Bot fleet allowed
+Verdict: EXPLORING
+Excerpt: Knowledge Weaver seals after human approval of Content Mycelium packs count as Returned Honey crossings. Path documented in docs/honey-crossing.md. No sixth species.
+Seed: Dual-write complete. Particle field tracers remain optional Shell visualization.
+Write: SHA (this commit)
+Uptake: used prior State? Y + 2026-10-13 Shell experiment entry
+
 ## 2026-10-13 | Shell experiment — Grok Bot fleet
 Title: Grok Bots as Shell agents (no sixth species)
 Verdict: EXPLORING
