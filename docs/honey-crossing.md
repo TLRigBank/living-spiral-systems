@@ -2,7 +2,8 @@
 
 **Status:** Sealed 2026-09-07  
 **Layer:** Shell protocol that protects Spine-grade memory  
-**Field contract:** Spine stays · Wells pull · Honey crosses · Shell bounds.
+**Field contract:** Spine stays · Wells pull · Honey crosses · Shell bounds.  
+**Bot seals note:** 2026-10-13
 
 Honey is the only field species whose job is the relationship between wells.  
 This note says what may ride the figure-eight, and where it may land.
@@ -23,6 +24,20 @@ plus dual-write when the deposit changes durable meaning.
 
 Exploring never updates `docs/STATE-LEDGER.md` as if it were current truth.  
 Embeddings are “related.” The ledger is “current.”
+
+## Returned seals from Grok Bot fleet (2026-10-13)
+
+Returned seals originating from the Grok Bot Shell agents are explicitly allowed.
+
+Path: Signal Desk brief → Content Mycelium draft → human approval → Knowledge Weaver seal into honeycomb or Spiral Library.
+
+These count as Returned crossings when:
+
+- the pack was approved by the human, and
+- Knowledge Weaver writes the seal into an existing honeycomb vessel or Spiral Library entry, and
+- dual-write occurs if the deposit changes durable meaning.
+
+They do not create a sixth species or a new well. Temporary Shell tracers in the particle field may visualize the handoff and then fade. The resulting Honey particle is a normal Returned crossing.
 
 ## Murmuration mapping
 
