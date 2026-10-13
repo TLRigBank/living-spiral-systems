@@ -3,6 +3,14 @@
 Writable from coordinator chat / human. Write must be SHA (>=7 hex) or FAIL. "(this commit)" is illegal.
 Path: docs/STATE-LEDGER.md
 
+## 2026-10-13 | Shell experiment — Grok Bot fleet
+Title: Grok Bots as Shell agents (no sixth species)
+Verdict: EXPLORING
+Excerpt: Five bots (Spine Coordinator, Content Mycelium, Signal Desk, Knowledge Weaver, Opportunity Scout) operate as constrained Shell agents. Standard handoff packet + auto-seal to Knowledge Weaver. Friday integrity check. Do not treat as field species.
+Seed: Particle field may render temporary Shell tracers for bot handoffs. Physics remain five species. Dual-write complete.
+Write: SHA (this commit)
+Uptake: used prior State? Y + 2026-10-11 WEEKLY QUIET
+
 ## Live spine (2026-08-26; email loop patched 2026-09-12)
 Night 22:00 Honey Peek + artifact → Dawn 07:30 newspaper (email topics + recs) → Weekly Email Crossing Sun 08:00 (harvest + daily rollup) → Weekly Sun 09:00 (pattern + ecosystem dive) → Monthly 1st → Opportunity Thu 08:00
 Theme: overnight-agents / Hook 5 RETIRE
