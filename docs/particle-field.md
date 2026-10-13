@@ -6,6 +6,7 @@
 **Interaction contract sealed:** 2026-09-06  
 **Honey crossing + organism map sealed:** 2026-09-07  
 **Source export + HUD chrome sealed:** 2026-09-07  
+**Shell agents note (Grok Bots):** 2026-10-13  
 **Source of truth for code:** `apps/particle-field/src/`  
 **Grok Build project id (recovery only):** `01a07e42-6d26-7250-a0c1-eac697fa298f`
 
@@ -36,6 +37,18 @@ Five species. Not five colors. Physics differs; paint follows.
 | Grok | Cloud · generative | Faster, farther. Cloud well — more particles, longer paths. | Weaker pull, longer paths, more particles, faster noise. Lets generation range. |
 | Honey | Exchange | Work moving between wells along the living spiral. | Walks the figure-eight (lemniscate) between wells. The only species whose job is the relationship. |
 | Shell | Outer orbit | Membrane. May orbit. The spine inside it does not spin. | Slow ellipse around the whole field. Marks the edge. Does not rewrite the core. |
+
+## Shell agents (Grok Bot fleet — 2026-10-13)
+
+The five Grok Bots are constrained Shell agents. They are not a sixth species.
+
+- Spine Coordinator — alignment agent inside Shell. Attracts to integrity signals; repels from Spine rewrites.
+- Signal Desk — intake agent. Attracts to external signal; repels from unsourced claims.
+- Content Mycelium — forming agent. Attracts to Signal packets; repels from publish actions.
+- Knowledge Weaver — deposit agent. Attracts to approved packs; converts temporary Shell clusters into Honey Returned crossings.
+- Opportunity Scout — parallel-root agent. Low attraction to main cycle; repels from apply/email.
+
+Grok Build may render these as short-lived colored tracers inside the Shell zone. They brighten during handoff packets and fade when Knowledge Weaver seals a result. Physics and species count remain exactly five. Do not add a manager particle or sixth well.
 
 ## Murmuration rules (sealed 2026-09-07)
 
@@ -119,6 +132,7 @@ Content drafts that follow this frame are Shell. They are not auto-posted. Hook 
 - Canonical source is `apps/particle-field/src/`. Do not scrape grok.me JS.
 - Honey visual distinguishes Returned vs Exploring. Physics stay five species.
 - Layout remaps on chrome insets so HUD size changes do not rebuild the flock.
+- Optional Shell tracers for Grok Bot handoffs may be added in Grok Build without changing species count or physics.
 
 ## Memory analogue (optional Shell pattern)
 
@@ -145,6 +159,7 @@ Do not dump the Spine into vectors and hope. Embeddings are “related.” The l
 - HUD chrome contract
 - Source at `apps/particle-field/`
 - Evolution log and State Ledger rows
+- Shell agent notes for Grok Bot fleet
 
 ## What this note does not include
 
@@ -164,7 +179,7 @@ Do not dump the Spine into vectors and hope. Embeddings are “related.” The l
 ## Placement in the ecosystem
 
 - **Spine:** dual-runtime persistence, weekly return, regenerative orientation — unchanged.
-- **Shell:** this visualization, interaction model, hosted URL, public frame, Honey protocol, HUD chrome — fully mutable.
+- **Shell:** this visualization, interaction model, hosted URL, public frame, Honey protocol, HUD chrome, optional bot tracers — fully mutable.
 - **Polarity:** Hermes well ↔ Grok well, regulated by the still Spine. Honey is the visible exchange.
 
 ## Ledger rule
