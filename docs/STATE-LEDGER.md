@@ -3,6 +3,14 @@
 Writable from coordinator chat / human. Write must be SHA (>=7 hex) or FAIL. "(this commit)" is illegal.
 Path: docs/STATE-LEDGER.md
 
+## 2026-10-13 | Grok Build notes
+Title: Particle-field README updated for Shell tracers and Returned seals
+Verdict: EXPLORING
+Excerpt: apps/particle-field/README.md now contains Grok Build instructions for temporary Shell tracers and confirms Returned seals from the bot fleet are allowed.
+Seed: Dual-write complete. Species remain five.
+Write: SHA (this commit)
+Uptake: used prior State? Y + 2026-10-13 Honey protocol update
+
 ## 2026-10-13 | Honey protocol update
 Title: Returned seals from Grok Bot fleet allowed
 Verdict: EXPLORING
