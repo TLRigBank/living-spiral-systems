@@ -52,6 +52,18 @@ Controls:
 
 Meaning, inspect copy, hexes, and public frame live in `docs/particle-field.md`. Do not invent a sixth species. Do not render First Root, Eden Weaver, or RAF as particles.
 
+## Grok Build notes (2026-10-13)
+
+Shell agents (Grok Bot fleet) may be visualized as temporary tracers inside the Shell zone only:
+
+- Spine Coordinator, Signal Desk, Content Mycelium, Knowledge Weaver, Opportunity Scout.
+- They are not a sixth species and must use Shell physics.
+- Brighten tracers during handoff packets (Signal → Content → Knowledge).
+- Fade them when Knowledge Weaver seals a result.
+- Returned seals from the bot fleet (after human approval) are allowed Honey Returned crossings. See `docs/honey-crossing.md`.
+
+Do not add a manager particle or new well. Species count remains exactly five.
+
 ## Chrome (sealed 2026-09-07)
 
 The particle field is the product. Species information is complementary, not a cover.
