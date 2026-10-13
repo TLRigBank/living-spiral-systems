@@ -89,3 +89,10 @@ export const TRAIL = {
   honeyReturned: 26,
   shell: 5,
 } as const;
+
+// Optional Shell tracers for Grok Bot fleet (2026-10-13).
+// Do not add to SpeciesId. Grok Build may spawn temporary short-lived particles
+// inside the Shell zone to visualize handoff packets. They must use Shell physics
+// and fade when Knowledge Weaver seals a result. Species count remains exactly five.
+export const SHELL_AGENT_NOTE =
+  "Grok Bots are Shell agents, not species. Temporary tracers only.";
