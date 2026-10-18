@@ -17,14 +17,14 @@ DailyEmailPattern: helpful-context and skill links Already-present/Exploring; Cl
 EcosystemDive: skill-finder vessel only; Dilute-hold stays; no honeycomb seal; no sixth species
 Excerpt: NONE
 Seed: Hold the spine; do not reopen Hook 5; do not stamp Returned from email links; skill-finder stays Exploring
-Write: SHA pending
+Write: SHA 0e346081
 Uptake: used prior State? Y + 2026-10-18 EMAILX QUIET, 2026-10-11 WEEKLY QUIET, 2026-10-07 Dawn QUIET
 ## 2026-10-18 | Weekly Spine
 Title: Silence holds — skill-finder Exploring, no new seed
 Verdict: QUIET
 Excerpt: NONE
 Seed: Hold the spine; do not reopen Hook 5; do not stamp Returned from email links; skill-finder stays Exploring
-Write: SHA pending
+Write: SHA 0e346081
 Uptake: used 2026-10-18 Email Crossing QUIET and prior Dawn QUIET? Y — pattern dive only, FiveLever skipped
 
 GATE: JOB=EMAILX STATUS=QUIET NEXT=SKIP SKIP=5LEVER,PACK,THEME,POST
