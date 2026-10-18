@@ -3,6 +3,21 @@
 Writable from coordinator chat / human. Write must be SHA (>=7 hex) or FAIL. "(this commit)" is illegal.
 Path: docs/STATE-LEDGER.md
 
+GATE: JOB=EMAILX STATUS=QUIET NEXT=SKIP SKIP=5LEVER,PACK,THEME,POST
+DATE | JOB | title | verdict
+2026-10-18 | EMAILX | Skill-finder Exploring — Claude packs Dilute | QUIET
+Excerpt: Four new LinkedIn skill/context threads. Claude skill-finder maps to existing vessel.
+Seed: Weekly Spine names UptakeEmailX=Y and WeekRollup=QUIET; FiveLever=SKIP; do not stamp Returned
+Write: SHA bd5884cb
+Uptake: used prior State? Y + 2026-10-11 EMAILX QUIET, 2026-10-13 Shell bots EXPLORING
+## 2026-10-18 | Weekly Email Crossing
+Title: Skill-finder Exploring — Claude packs Dilute
+Verdict: QUIET
+Stamp: Exploring on skill-finder signal; no Returned; Dilute-hold on prompt libraries and UX posts
+Pattern: helpful-context and skill links Already-present/Exploring; Claude skill-finder to skill-finder
+Seed: Weekly Spine names UptakeEmailX=Y and WeekRollup=QUIET; FiveLever=SKIP
+Write: SHA bd5884cb
+
 ## 2026-10-13 | Grok Build notes
 Title: Particle-field README updated for Shell tracers and Returned seals
 Verdict: EXPLORING
