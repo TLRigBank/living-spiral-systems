@@ -3,6 +3,30 @@
 Writable from coordinator chat / human. Write must be SHA (>=7 hex) or FAIL. "(this commit)" is illegal.
 Path: docs/STATE-LEDGER.md
 
+GATE: JOB=WEEKLY STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
+DATE | JOB | title | verdict
+2026-10-25 | WEEKLY | Silence holds — AI repos Dilute, skill-finder Exploring, no new seed | QUIET
+UptakeEmailX: Y
+UptakeEmailPeek: Y
+WeekRollup: QUIET
+FiveLever: SKIP
+AutoDiff: NONE
+ConstraintSealed: N
+Fork: NONE
+DailyEmailPattern: helpful-context and skill links Already-present/Exploring; AI GitHub repos list Dilute-hold; peeks mostly empty or Dilute
+EcosystemDive: Dilute-hold stays; skill-finder Exploring only; no honeycomb seal; no sixth species
+Excerpt: NONE
+Seed: Hold the spine; do not reopen Hook 5; do not stamp Returned from email links; skill-finder stays Exploring
+Write: SHA pending
+Uptake: used prior State? Y + 2026-10-25 EMAILX QUIET, 2026-10-18 WEEKLY QUIET
+## 2026-10-25 | Weekly Spine
+Title: Silence holds — AI repos Dilute, skill-finder Exploring, no new seed
+Verdict: QUIET
+Excerpt: NONE
+Seed: Hold the spine; do not reopen Hook 5; do not stamp Returned from email links; skill-finder stays Exploring
+Write: SHA pending
+Uptake: used 2026-10-25 Email Crossing QUIET and prior Dawn QUIET? Y — pattern dive only, FiveLever skipped
+
 GATE: JOB=EMAILX STATUS=QUIET NEXT=SKIP SKIP=5LEVER,PACK,THEME,POST
 DATE | JOB | title | verdict
 2026-10-25 | EMAILX | Quiet window — AI repos list Dilute | QUIET
