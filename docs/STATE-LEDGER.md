@@ -3,6 +3,21 @@
 Writable from coordinator chat / human. Write must be SHA (>=7 hex) or FAIL. "(this commit)" is illegal.
 Path: docs/STATE-LEDGER.md
 
+GATE: JOB=EMAILX STATUS=QUIET NEXT=SKIP SKIP=5LEVER,PACK,THEME,POST
+DATE | JOB | title | verdict
+2026-10-25 | EMAILX | Quiet window — AI repos list Dilute | QUIET
+Excerpt: One new LinkedIn top-12 AI GitHub repos thread. Scores Dilute.
+Seed: Weekly Spine names UptakeEmailX=Y and WeekRollup=QUIET; FiveLever=SKIP; do not stamp Returned
+Write: SHA 58a6fa3a
+Uptake: used prior State? Y + 2026-10-18 EMAILX QUIET, 2026-10-18 WEEKLY QUIET
+## 2026-10-25 | Weekly Email Crossing
+Title: Quiet window — AI repos list Dilute
+Verdict: QUIET
+Stamp: Dilute-hold on AI GitHub repos list; no Returned; skill-finder stays Exploring
+Pattern: helpful-context Already-present/Exploring; AI repos list Dilute
+Seed: Weekly Spine names UptakeEmailX=Y and WeekRollup=QUIET; FiveLever=SKIP
+Write: SHA 58a6fa3a
+
 GATE: JOB=WEEKLY STATUS=QUIET NEXT=SKIP SKIP=DRAFT,5LEVER,PACK,THEME,POST
 DATE | JOB | title | verdict
 2026-10-18 | WEEKLY | Silence holds — skill-finder Exploring, no new seed | QUIET
